@@ -1,0 +1,70 @@
+---
+layout: default
+title: home
+---
+{% include header.html %}
+<main> 
+<!-- breadcrumb-area -->
+{% if site.lang == "tr" %}
+<section class="breadcrumb-area grey-bg" style="background-image:url({{site.cover_image}})">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-8 col-md-6" id="title">
+                <div class="breadcrumb">
+                    {% if page.title_tr %}
+                    <h1><a class="text-white pl-1">{{page.title_tr}}</a></h1>
+                    {% else %}
+                    <h1><a class="text-white pl-1">{{page.title}}</a></h1>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 text-left text-md-right">
+                <div class="breadcrumb">
+                    <ul>
+                        <li><a href="{{site.url}}">{% translate titles.home %}</a></li>
+                        <li class="text-white pl-1">{% translate global.pages %} /</li>
+                        {% if page.title_tr %}
+                        <li class="text-white pl-1">{{page.title_tr}}</li>
+                        {% else %}
+                        <li class="text-white pl-1">{{page.title}}</li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+{% if site.lang == "en" %}
+<section class="breadcrumb-area grey-bg" style="background-image:url({{site.cover_image}})">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-8 col-md-6">
+                <div class="breadcrumb">
+                    {% if page.title_en %}
+                    <h1><a class="text-white pl-1">{{page.title_en}}</a></h1>
+                    {% else %}
+                    <h1><a class="text-white pl-1">{{page.title}}</a></h1>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 text-left text-md-right">
+                <div class="breadcrumb">
+                    <ul>
+                        <li><a href="{{site.url}}">{% translate titles.home %}</a></li>
+                        <li class="text-white pl-1">{% translate global.pages %} /</li>
+                        {% if page.title_en %}
+                        <li class="text-white pl-1">{{page.title_en}}</li>
+                        {% else %}
+                        <li class="text-white pl-1">{{page.title}}</li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{{content}}
+</main>

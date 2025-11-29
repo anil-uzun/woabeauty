@@ -1,0 +1,443 @@
+#language options
+langs:
+  en: English
+  tr: Türkçe
+  az: Azərbaycan dili
+
+#globals
+global:
+  pages:        Səhifələr
+  continue:     Davam et ➤
+  share:        Paylaş
+  adress:       Mecidiyeköy Mah. Kervan Geçmez sok.<br> Dilan Sitesi No/9-1 B-2 Blok K.3 Ofis No:6<br> İstanbul, Türkiye
+  adress_str:   Mecidiyeköy Mah. Kervan Geçmez sok. Dilan Sitesi No/9-1 B-2 Blok K.3 Ofis No:6 İstanbul, Türkiye
+  mail:         support@euro-permit.com
+  headers:      Başlıqlar
+  site_lang:    Saytın dili
+
+#time
+time:
+  day:      Gün
+  hour:     Saat
+  day_0:    Bazar ertəsi
+  day_1:    Çərşənbə axşamı
+  day_2:    Çərşənbə
+  day_3:    Cümə axşamı
+  day_4:    Cümə
+  day_5:    Şənbə
+  day_6:    Bazar
+
+#pages and includes
+titles:
+  home:         "Ana səhifə"
+  terms:        "İstifadə Şərtləri"
+  privacy:      "Məxfilik"
+  policy:       "Siyasət"
+  contact:      "Əlaqə"
+  about:        "Haqqımızda"
+  blog:         "Bloq"
+  services:     "Xidmətlərimiz"
+  social-media: "Sosial Media Səhifələrimiz"
+  countries:    "Türkiyəyə Ən Çox Köç Edən Ölkələr"
+
+links:
+  services:     "hizmetler"
+
+countries:
+  syria:        "Suriya"
+  text_1:       "Türkiyədə yeni həyat qurmaq və sabit iş imkanları tapmaq istəyən suriyalı vətəndaşlara dəstək oluruq. Komandamız iş icazəsi və oturma vizası proseslərini tez və problemsiz şəkildə tamamlamalarına kömək edir."
+  russia:       "Rusiya"
+  text_2:       "Rusiyadan gələn mütəxəssislərə Türkiyə iş vizası müraciətlərində şəxsi dəstək göstərərək daha sürətli nəticə və daha yaxşı iş imkanları əldə etmələrinə kömək edirik."
+  turkmenistan: "Türkmənistan"
+  text_3:       "Türkmənistandan bir çox insan tikinti, ev xidmətləri və xidmət sektorunda işləmək üçün Türkiyəyə gəlir. Biz onların iş icazəsi müraciətlərini başdan sona qədər asan və uğurlu şəkildə tamamlayırıq."
+  uzbekistan:   "Özbəkistan"
+  text_4:       "Özbək vətəndaşlar adətən turizm, otelçilik və pərakəndə satış sahələrində işləmək üçün Türkiyəyə gəlirlər. Biz onların Türkiyədə iş icazəsi və viza prosesini addım-addım izləyərək sürətli və aydın nəticələr əldə etmələrini təmin edirik."
+  iran:         "İran"
+  text_5:       "İş, təhsil və ya mədəni məqsədlərlə Türkiyəyə gələn iranlı vətəndaşlara dəstək oluruq. Xidmətlərimiz onların oturma və iş icazəsi almasını asanlaşdıraraq hədəflərinə fokuslanmalarına imkan yaradır."
+  afghanistan:  "Əfqanıstan"
+  text_6:       "Daha yaxşı iş imkanları və ailə sabitliyi üçün Türkiyəyə gələn əfqan vətəndaşlara kömək edirik. Mütəxəssis komandamız iş vizası müraciətləri, sənəd hazırlığı və işəgötürənlə əlaqə sahəsində dəstək verir."
+  azerbaijan:   "Azərbaycan"
+  text_7:       "Türkiyəyə peşəkar inkişaf, ticarət və ya əməkdaşlıq məqsədilə gələn azərbaycanlı vətəndaşlarla işləyirik. Komandamız onların Türkiyədə viza və iş icazəsi proseslərini sürətli və diqqətli şəkildə həyata keçirir."
+
+#top header Content
+header_top:
+  text_1:   Bizi izləyin
+  btn_1:    Bizimlə əlaqə saxlayın
+
+#search Content
+search:
+  text: Saytda axtar...
+
+#slider Content
+slider:
+  title_1:  Türkiyə Xarici<br>Məsləhət Xidməti<br><span>EuroPermit</span>
+  btn_1:    Xidmətlərə keç
+  title_2:  Sosial media<br>səhifələrimizi də <span>incələyin</span>
+  text_2:   Sosial media hesablarımızı izləyərək<br> markamızla bağlı yeniliklərdən xəbərdar ola bilərsiniz.
+  btn_2:    Sosial Media Səhifələrimiz
+
+#about Content
+about:
+  subtitle_1: Missiyamız və Vizyonumuz
+  text_1: >-
+              EuroPermit olaraq, müştərilərimizin İcazə, Oturma, Vətəndaşlıq və digər sənədlərlə bağlı <b>bütün</b> problemlərini ən 
+              effektiv şəkildə həll etmək və onların Türkiyəyə köç təcrübəsini <b>mümkün qədər</b> problemsiz keçirməsini təmin etmək bizim əsas məqsədimizdir.
+  subtitle_2: Necə işləyirik?
+  text_2:     EuroPermit olaraq, problemlərinizə ən sürətli və effektiv həlləri təqdim edirik və bizi seçdiyiniz üçün peşman olmayacaqsınız.
+
+#blog Content
+blog:
+  subtitle_1: Yenilənmiş Bloq
+  text_1:     Ən son paylaşımlarımızı buradan görə bilərsiniz
+  header_2:   Əlaqəli Paylaşımlar
+
+#services Content
+services:
+  opt_all:    HAMISI
+  opt_perm:   İCAZƏLƏR
+  opt_doc:    SƏNƏDLƏR
+  text:       EuroPermit – Ehtiyacınız ola biləcək hər cür yardımı xidmətlərimiz arasında tapa bilərsiniz
+  service_1:  Türkiyə Vətəndaşlığı
+  text_1:     Türkiyə Respublikasının vətəndaşı olmaq və bu hüquqlardan yararlanmaq üçün lazımi proseslərdə məsləhət xidmətlərimizdən faydalanmaq üçün bizimlə əlaqə saxlayın.
+  service_2:  Oturma İcazəsi
+  text_2:     Türkiyədə yaşamaq və uzunmüddətli qalmaq üçün tələb olunan oturma icazəsini almaqda sizə kömək edirik.
+  service_3:  Deport (Sərhəddən çıxarılma) Ləğvi
+  text_3:     Sizin və ya yaxınınız haqqında verilmiş deport qərarının dəyişdirilməsi üçün bizim məsləhət xidmətlərimizdən yararlana bilərsiniz.
+  service_4:  İş İcazəsi
+  text_4:     Türkiyədə işləmək və ya iş qurmaq üçün tələb olunan iş icazəsini almaqda sizə dəstək oluruq.
+  service_5:  Viza İşləri
+  text_5:     Türkiyəyə gəlmək, səyahət etmək və müəyyən müddət ərzində orada yaşamaq istəyənlər üçün viza proseslərində kömək edirik.
+  service_6:  Sağlamlıq Sığortası
+  text_6:     Oturma icazəsi üçün tələb olunan xarici sağlamlıq sığortasını almaqda sizə dəstək oluruq.
+  service_7:  Pasport İşləri
+  text_7:     Pasport əldə etmək və Türkiyə pasportunun üstünlüklərindən yararlanmaq üçün bizimlə əlaqə saxlayın. (Yalnız vətəndaşlara verilir)
+#service 1 Content
+service_1:  
+  header_1: Niyə Türk Vətəndaşı Olmaq İstəyim?
+  btn_1:    Məsləhət xidmətlərimizdən yararlanmaq üçün klikləyin və bizimlə əlaqə saxlayın
+  text_1: >-
+            <o class="fas fa-caret-right"></o> 
+            Türk vətəndaşı olduğunuz zaman dövlətin türk vətəndaşlarına təqdim etdiyi bütün hüquqlardan yararlana bilərsiniz.<br>
+            <div class="ml-3 mt-1 mb-1">
+            <o><b>-</b></o> Səsvermə hüququ<br>
+            <o><b>-</b></o> Yüksək keyfiyyətli təhsilə çıxış<br>
+            <o><b>-</b></o> Keyfiyyətli səhiyyə sistemindən yararlanmaq<br>
+            <o><b>-</b></o> Torpaq sahibi olmaq<br>
+            </div>
+            kimi bir çox hüquqlara sahib olacaqsınız.<br>
+            <o class="fas fa-caret-right"></o> Həyat yoldaşınız və uşaqlarınız da vətəndaşlıq hüququ qazanacaq.<br>
+            <o class="fas fa-caret-right"></o> İkiqat vətəndaşlıq sahibi ola bilərsiniz. Türkiyə eyni anda iki fərqli ölkədən vətəndaşlıq əldə etməyə imkan verir! <br>
+            <o class="fas fa-caret-right"></o> Türkiyədə qalma müddətiniz məhdudlaşdırılmır — istədiyiniz qədər ölkəyə girib çıxa və orada qala bilərsiniz!
+  header_2: Vətəndaşlıq Üçün Niyə Məsləhət Xidmətinə Ehtiyac Var?
+  btn_2:    Məsləhət xidmətlərimizdən yararlanmaq üçün klikləyin və bizimlə əlaqə saxlayın
+  text_2: >-
+            Vətəndaşlıq müraciəti zamanı diqqət edilməli çoxlu vacib məqamlar mövcuddur.  
+            Tələb olunan sənədlər tamamlanmaya, bəzi addımlar unudula və ya səhv edilə bilər.  
+            Bu cür səhvlər vaxt və pul itkisinə, bəzən isə daha ciddi nəticələrə səbəb ola bilər.
+  header_3: Türk Vətəndaşlığını Qazanma Üsulları
+  acc_1:    Doğumla Vətəndaşlıq Qazanılması
+  con_1: >-
+            Soy bağından vətəndaşlıq, uşağın doğulduğu anda türk vətəndaşı olan ana və ya atasının vətəndaşlığını qazanması deməkdir.  
+            Ana və ya atadan biri doğum anında türk vətəndaşıdırsa, digərinin əcnəbi olması uşağın türk vətəndaşlığı almasına mane olmur.  
+            Türkiyədə doğulmuş, valideynləri məlum olmayan və ya vətəndaşlığı olmayan uşaqlar doğumdan etibarən türk vətəndaşlığını qazanır.  
+            Türkiyədə tapılan uşaq, xaricdə doğulduğu sübut edilmədikcə Türkiyədə doğulmuş sayılır.
+  acc_2:    Sonradan Vətəndaşlıq Qazanma Yolları
+  con_2: >-
+            <ul>
+              <li><a href="#">Türk vətəndaşlığının investisiya yolu ilə qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının səlahiyyətli orqan qərarı ilə qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının ümumi qaydada qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının istisna qaydada qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının yenidən qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının evlilik yolu ilə qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının övladlığa götürülmə yolu ilə qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+              <li><a href="#">Türk vətəndaşlığının seçim yolu ilə qazanılması <o><b>Ətraflı öyrən</b></o></a></li>
+            </ul>
+  acc_3:    İnvestisiya Yolu ilə Vətəndaşlıq Qazanılması
+  con_3: >-
+            <b>İnvestisiya yolu ilə vətəndaşlıq qazanmanın təfərrüatları</b><br>
+            Türk Vətəndaşlığı Qanununun 46-cı maddəsinə əsasən, Prezident tərəfindən 19.09.2018 tarixli Rəsmi Qəzetdə yayımlanan qərarla,  
+            250 min ABŞ dolları və ya daha çox dəyərdə daşınmaz əmlak alaraq və 3 il ərzində satmamaq öhdəliyi qoyaraq vətəndaşlıq almaq mümkündür.  
+            Həmçinin 500 min ABŞ dolları və ya daha çox kapital yatırımı edən, eyni miqdarda depozit qoyan və ya 50 nəfərlik iş yeri yaradan şəxslər də bu hüquqa malikdir.  
+            Əvvəllər bu məbləğ 1 milyon ABŞ dolları idi, lakin yeni qayda ilə 250 min dollara endirilib.
+  acc_3B:   İnvestisiya Yolu ilə Türk Vətəndaşlığı üçün Lazım Olan Sənədlər
+  con_3B: >-
+              Müraciət forması  
+              2 ədəd biometrik şəkil  
+              Pasportun və notarial təsdiqli Azərbaycan dilinə tərcüməsi  
+              Doğum haqqında şəhadətnamə  
+              Ailə vəziyyəti sənədi  
+              Əmlak və ya investisiyanı göstərən sənədlər  
+              Daşınmaz əmlak qiymətləndirmə hesabatı  
+              Tam nüfus qeydiyyat çıxarışı  
+              Rüsumun ödəniş qəbzi
+  acc_4:    "4-cü Üsul"
+  con_4:    "4-cü üsulun izahı"
+
+#service 2 Content
+service_2:
+  header_1: Oturma İcazəsi nədir?
+  btn_1:    Oturma icazəsi almaqda məsləhət xidmətlərimizdən yararlanmaq üçün bizimlə əlaqə saxlayın
+  text_1: >-
+            Oturma icazəsi — Türkiyədə qalmaq istəyən və vizanın və ya viza azadolmasının verdiyi müddətdən (adətən 90 gün) artıq qalmaq istəyən əcnəbilərin almalı olduğu sənəddir.
+  header_2: Oturma İcazəsi üçün niyə məsləhət xidmətindən istifadə etməliyəm?
+  text_2: >-
+            Oturma icazəsi alma prosesi <b>çox diqqətlə</b> yerinə yetirilməli və zamanla dəyişə bilən bir prosedurdur.  
+            Səhv ehtimalı yüksək olduğu üçün və səhvlər ciddi nəticələr doğura bildiyindən, riskləri minimuma endirmək üçün bizimlə əlaqə saxlamağınız ən düzgün qərardır.
+  header_3: Oturma icazəmi nə vaxt uzada bilərəm?
+  text_3: >-
+            Oturma icazənizin bitməsinə 60 gün qaldıqda uzadılma üçün müraciət edə bilərsiniz.  
+            Bu müraciətlər <b>mütləq</b> bu müddət ərzində edilməlidir. Əks halda, cərimə tədbirləri tətbiq olunur.
+  btn_2:    Oturma icazəsini uzatma prosesində məsləhət xidmətlərimizdən yararlanmaq üçün bizimlə əlaqə saxlayın
+  header_4: Oturma İcazəsi Növləri
+  acc_1:    Qısamüddətli Oturma İcazəsi
+  con_1: >-
+            Qısamüddətli oturma icazəsi kimlərə verilir?<br>
+            <o class="fas fa-caret-right"></o> Ticarət əlaqəsi quracaq və ya iş açacaq əcnəbilərə<br>
+            <o class="fas fa-caret-right"></o> Turizm məqsədilə qalacaq əcnəbilərə<br>
+            <o class="fas fa-caret-right"></o> Təhsil və ya dəyişmə proqramları çərçivəsində gələnlərə<br>
+            <o class="fas fa-caret-right"></o> Ailə icazəsi şərtlərini itirən və qısamüddətli icazəyə keçmək istəyənlərə<br>
+            <o class="fas fa-caret-right"></o> Azərbaycan dili kurslarında iştirak edən əcnəbilərə<br>
+            <o class="fas fa-caret-right"></o> Şimali Kipr Türk Cümhuriyyəti vətəndaşlarına<br>
+            <o class="fas fa-caret-right"></o> Elmi tədqiqat məqsədilə gələnlərə<br>
+            <o class="fas fa-caret-right"></o> Türkiyədə daşınmaz əmlakı olan əcnəbilərə<br>
+            <o class="fas fa-caret-right"></o> Dövlət müəssisələri vasitəsilə təlim və ya staj keçəcək əcnəbilərə<br>
+            <o class="fas fa-caret-right"></o> Müalicə üçün gələn və ictimai sağlamlığa təhlükə törətməyən əcnəbilərə<br>
+            <o class="fas fa-caret-right"></o> Məhkəmə və ya inzibati orqanların qərarına əsasən Türkiyədə qalması tələb olunanlara<br>
+            <o class="fas fa-caret-right"></o> Yüksək təhsilini bitirdikdən sonra 6 ay ərzində müraciət edən məzunlara<br>
+            <o class="fas fa-caret-right"></o> Türkiyədə iş görməyən, lakin müəyyən miqdarda sərmayə qoyan və ailə üzvləri olanlara<br>
+  acc_2:    Uzunmüddətli Oturma İcazəsi
+  con_2: >-
+            <b>Uzunmüddətli icazə hansı hallarda verilir?</b><br>
+            Türkiyədə ən azı 8 il fasiləsiz yaşayan və ya nazirliyin müəyyən etdiyi şərtlərə cavab verən əcnəbilərə müddətsiz icazə verilir.<br>
+            Şərtlər:<br>
+            <o class="fas fa-caret-right"></o> 8 il fasiləsiz oturma icazəsi ilə yaşamaq<br>
+            <o class="fas fa-caret-right"></o> Son 3 ildə sosial yardım almamaq<br>
+            <o class="fas fa-caret-right"></o> Yetərli və sabit gəlirə malik olmaq<br>
+            <o class="fas fa-caret-right"></o> Etibarlı sağlamlıq sığortası olmaq<br>
+            <o class="fas fa-caret-right"></o> İctimai asayişə və təhlükəsizliyə təhdid yaratmamaq<br>
+  acc_3:    Ailə Oturma İcazəsi
+  con_3: >-
+            <b>Türkiyədə ailənizlə birlikdə yaşamaq istəyirsinizsə, bu icazə sizin üçün ən uyğun seçimdir.</b><br>
+            Ailənizdən yararlana biləcək şəxslər:<br>
+            <o class="fas fa-caret-right"></o> Əcnəbi həyat yoldaşınız<br>
+            <o class="fas fa-caret-right"></o> 18 yaşdan kiçik uşaqlar<br>
+            <o class="fas fa-caret-right"></o> Asılı olan uşaqlar<br>
+  acc_4:    Tələbə Oturma İcazəsi
+  con_4: >-
+            <b>Tələbə oturma icazəsi kimlərə verilir?</b><br>
+            <o class="fas fa-caret-right"></o> Ailə icazəsi olmayan orta və ya ibtidai səviyyədə təhsil alacaq əcnəbilərə<br>
+            <o><b>-</b></o> Ailə icazəniz varsa, 18 yaşadək əlavə icazəyə ehtiyac yoxdur. 18 yaşdan sonra təhsili davam etdirirsinizsə, icazə alınmalıdır.<br>
+            <o class="fas fa-caret-right"></o> Türkiyədə ali məktəbdə oxuyan (bakalavr, magistr, doktorantura və s.) tələbələrə<br>
+  acc_5:    Humanitar Oturma İcazəsi
+  con_5:    <p></p>
+  acc_6:    Ticarət Zərərçəkən Oturma İcazəsi
+  con_6:    <p></p>
+
+#service 3 Content
+service_3:
+  header_1: Deport Qərarı nədir?
+  btn_1:    Sizə və ya yaxınınıza verilmiş deport qərarını ləğv etdirmək üçün məsləhət xidmətlərimizdən yararlanın
+  text_1: >-
+            Deport qərarı, əcnəbi bir şəxsin müəyyən səbəblərlə Türkiyədən çıxarılması deməkdir.  
+            Bu qərarı yalnız valiliklər verə bilər və proses ən çoxu 48 saat çəkir.
+  header_2: Kimlər deport edilə bilər?
+  text_2: >-
+            <o class="fas fa-caret-right"></o> Cinayət törədib cəzasını çəkmiş şəxslər<br>
+            <o class="fas fa-caret-right"></o> Terror və ya cinayət təşkilatları ilə əlaqəsi olanlar<br>
+            <o class="fas fa-caret-right"></o> Saxta sənəd və ya yalnış məlumat təqdim edənlər<br>
+            <o class="fas fa-caret-right"></o> Qeyri-qanuni gəlir mənbəyi ilə yaşayanlar<br>
+            <o class="fas fa-caret-right"></o> İctimai asayiş və sağlamlığa təhdid yaradanlar<br>
+            <o class="fas fa-caret-right"></o> Viza müddətini 10 gündən çox aşanlar<br>
+            <o class="fas fa-caret-right"></o> Oturma icazəsi ləğv edilənlər<br>
+            <o class="fas fa-caret-right"></o> Çalışma icazəsi olmadan işləyənlər<br>
+            <o class="fas fa-caret-right"></o> Qanunsuz giriş-çıxış edənlər<br>
+            <o class="fas fa-caret-right"></o> Qoruma statusu rədd edilən və Türkiyədə qalma hüququ olmayanlar<br>
+  header_3: Deportdan sonra Türkiyəyə qayıtmaq mümkündürmü?
+  text_3:   Əgər inzibati məhkəmə qərarı ləğv edərsə, <o style="color:light_gray">adətən məhkəmə qalib gəldikdə</o> Türkiyəyə qayıda bilərsiniz.<br><br>
+  header_4: Kimlər deport edilə bilməz?
+  text_4: >-
+            <o class="fas fa-caret-right"></o> Ölüm və ya işgəncə riski olan ölkəyə göndərilənlər<br>
+            <o class="fas fa-caret-right"></o> Ciddi sağlamlıq problemləri, yaş və hamiləlik səbəbindən səyahəti riskli olanlar<br>
+            <o class="fas fa-caret-right"></o> Müalicəsi davam edən və başqa yerdə müalicə imkanı olmayanlar<br>
+            <o class="fas fa-caret-right"></o> İnsan alveri qurbanı olan və dəstək prosesində olanlar<br>
+            <o class="fas fa-caret-right"></o> Psixoloji, fiziki və ya cinsi zorakılıq qurbanları (müalicə tamamlanana qədər)
+
+#service 4 Content
+service_4:
+  header_1: İş icazəsi nədir? Hansı üstünlükləri verir?
+  btn_1:    Məsləhət xidmətlərimizdən yararlanmaq üçün klikləyin və bizimlə əlaqə saxlayın
+  header_2: Nədir?
+  text_2:    İş icazəsi — əcnəbilərin Türkiyədə işləməsinə imkan verən və Əmək və Sosial Müdafiə Nazirliyi tərəfindən verilən sənəddir.
+  header_3: Üstünlükləri
+  text_3: >-
+            <o class="fas fa-caret-right"></o> İş icazəsi eyni zamanda oturma icazəsi funksiyasını daşıyır, bu səbəbdən ayrıca oturma icazəsi tələb olunmur.<br>
+            <o class="fas fa-caret-right"></o> Ailəniz də bəzi hüquqlardan yararlana bilər:<br>
+            <div class="ml-3 mt-1 mb-1">
+            <o><b>-</b></o> Həyat yoldaşınız və 18 yaşdan kiçik uşaqlar ailə oturma icazəsi ala bilər.<br>
+            <o><b>-</b></o> Onlar dövlət xəstəxanalarında pulsuz müalicə oluna bilər.<br>
+            </div>
+            <o class="fas fa-caret-right"></o> Türkiyədə fasiləsiz 5 il işlədikdən sonra vətəndaşlıq hüququ qazanırsınız.<br>
+            <o class="fas fa-caret-right"></o> Türkiyədən təqaüdə çıxa və bütün təqaüd imkanlarından yararlana bilərsiniz.
+  header_4: İş icazəm bitmək üzrədirsə, nə etməliyəm?
+  text_4:   İş icazəniz bitdikdə, ona bağlı oturma icazəsi də bitir. Buna görə yeni icazə çıxarmalı və ya mövcud icazəni uzatmalısınız.
+  header_5: İş icazəmi nə vaxt uzada bilərəm?
+  text_5:   İş icazənizin bitməsinə 60 gün qalmış uzatma üçün müraciət edə bilərsiniz.
+  btn_2:    Klikləyin və məsləhət xidmətlərimizdən yararlanın
+  header_6: Kimlər iş icazəsi ala bilər?
+  text_6: >-
+            Ən azı 6 ay oturma icazəsi olan (bakalavr tələbələri istisna olmaqla) əcnəbilərə iş icazəsi verilə bilər.
+  header_7: Ən çox hansı ölkə vətəndaşlarına iş icazəsi verilir?
+  text_7: >-
+            Ən çox iş icazəsi verilən ölkələr:<br>
+            <o class="fas fa-caret-right"></o> Suriya<br>
+            <o class="fas fa-caret-right"></o> Rusiya<br>
+            <o class="fas fa-caret-right"></o> Türkmənistan<br>
+            <o class="fas fa-caret-right"></o> Özbəkistan<br>
+            <o class="fas fa-caret-right"></o> İran<br>
+            <o class="fas fa-caret-right"></o> Əfqanıstan<br>
+            <o class="fas fa-caret-right"></o> Azərbaycan<br>
+  header_8: İş icazəsi almaq üçün şərtlər
+  text_8: >-
+            <o class="fas fa-caret-right"></o> İş yerinin ödənilmiş kapitalı ən az 100.000 TL olmalıdır.  
+            <o class="fas fa-caret-right"></o> Ən az 5 türk işçisi işləməlidir.  
+            <o class="fas fa-caret-right"></o> Ev işlərində işləyənlər üçün bu şərtlər tətbiq edilmir.  
+            <o class="fas fa-caret-right"></o> Turizm şirkətləri üçün bəzi istisnalar mövcuddur.  
+            <o class="fas fa-caret-right"></o> Xarici ortağın payı ən az 20% və ya 40.000 TL dəyərində olmalıdır.  
+            <o class="fas fa-caret-right"></o> Maaş vəzifəyə uyğun və minimum əmək haqqından yüksək olmalıdır.
+
+#service 5 Content
+service_5:
+  btn:        Viza proseslərində məsləhət xidmətlərimizdən yararlanmaq üçün bizimlə əlaqə saxlayın
+  header_1:   Xarici Viza Növləri
+  ar_opt_1:   Avropa Vizası
+  ar_text_1:  Avropa ölkələrinə getmək üçün tələb olunan vizadır.
+  ar_opt_2:   Asiya Vizası
+  ar_text_2:  Asiya ölkələrinə səyahət üçün tələb olunan vizadır.
+  header_2:   Türkiyə Viza Növləri
+  opt_1:      İş Vizası
+  text_1:     Türkiyəyə işləmək məqsədilə gələnlərə verilir.
+  opt_2:      Turizm Vizası
+  text_2:     Türkiyəyə turizm məqsədilə gəlmək istəyənlərə verilir.
+  opt_3:      Təhsil Vizası
+  text_3:     Türkiyədə təhsil almaq üçün gələnlərə verilir.
+  opt_4:      Tranzit Viza
+  text_4:     Türkiyədən keçid üçün tələb olunan vizadır.
+  opt_5:      Hava Limanı Tranzit Vizası
+  text_5:     Hava limanında transfer üçün qısa müddətli vizadır.
+  opt_6:      Rəsmi Tapşırıq Vizası
+  text_6:     Rəsmi vəzifə ilə gələnlərə verilir.
+
+#service 6 Content
+service_6:
+  header_1:   Xarici Sağlamlıq Sığortası
+  btn_1:      Məsləhət xidmətlərimizdən yararlanmaq üçün klikləyin və bizimlə əlaqə saxlayın
+  header_2:   Niyə Almalıyam?
+  text_2:     Türkiyədə qalmaq istəyən əcnəbilər üçün oturma icazəsi almaq məqsədilə məcburi sağlamlıq sığortası tələb olunur.
+  header_3:   Faydaları
+  text_3: >-
+              <o class="fas fa-caret-right"></o> Mövcud xroniki xəstəliklər istisna olmaqla, bütün xəstəliklərin müalicəsi sığorta tərəfindən qarşılanır.<br>
+              <o class="fas fa-caret-right"></o> Müqaviləli özəl xəstəxanalardan endirimlə yararlanmaq mümkündür.
+  header_4:   Niyə məsləhətçiyə ehtiyacım var?
+  text_4: >-
+              Bu cür proseslər dəqiqlik tələb edir, kiçik bir səhv belə işlərin ləngiməsinə və Türkiyədə qalma müddətinizin təsirlənməsinə səbəb ola bilər.
+
+#service 7 Content
+service_7:
+  btn:        Pasport proseslərində məsləhət xidmətlərimizdən yararlanmaq üçün bizimlə əlaqə saxlayın
+  header_1:   Pasport Növləri
+  opt_1:      Ümumi (Bordo) Pasport
+  text_1: >-
+              Ümumi (bordo) pasport digər növlərə uyğun gəlməyən vətəndaşlara verilir.<br>
+  acc_1:      Kimlərə verilir?
+  con_1:      <p></p>
+  opt_2:      Xüsusi (Yaşıl) Pasport
+  text_2: >-
+              Yaşıl pasport sahibləri 67 ölkəyə viza olmadan səyahət edə bilərlər.<br>
+  acc_2:      Kimlərə verilir?
+  con_2:  >-
+              < TBMM-nin keçmiş üzvləri ><br>
+              < Dövlət qulluqçuları (I–III dərəcə) ><br>
+              < Təqaüdçü dövlət qulluqçuları ><br>
+              < Bələdiyyə başçıları ><br>
+              < 15 ildən çox təcrübəsi olan akademiklər ><br>
+              < Həyat yoldaşları və 25 yaşadək subay uşaqları ><br>
+  opt_3:      Xidmət (Boz) Pasport
+  text_3: >-
+              Rəsmi dövlət işləri ilə əlaqədar səfər edənlərə verilir.<br>
+  acc_3:      Kimlərə verilir?
+  con_3:  >-
+              < Rəsmi vəzifə ilə xaricə göndərilən dövlət qulluqçuları ><br>
+              < Milli idmançılar ><br>
+              < Türk Qızılayı və THK əməkdaşları ><br>
+              < Xidmət pasportu sahiblərinin həyat yoldaşları və 25 yaşadək uşaqları ><br>
+  opt_4:      Diplomatik (Qara) Pasport 
+  text_4: >-
+              Diplomatik vəzifə daşıyan şəxslərə verilir.<br>
+  acc_4:      Kimlərə verilir?
+  con_4:  >-
+              < Parlament üzvləri, nazirlər, yüksək rütbəli zabitlər ><br>
+              < Diplomatik nümayəndələr və onların ailə üzvləri ><br>
+
+#Social Media Content
+social-media:
+  text_1:     Markamızla bağlı yeniliklərdən xəbərdar olmaq üçün aşağıdakı sosial media hesablarımızı izləyin.
+  soi   :     Instagram-da paylaş
+  sof   :     Facebook-da paylaş
+  sot   :     Twitter-də paylaş
+
+#Contact Content
+contact:
+  hours:  İş saatlarımız
+  adress: Ünvan
+  text_1: Bizi bu ünvanda tapa bilərsiniz
+  phone:  Telefon - Whatsapp
+  text_2: Bu nömrə ilə bizimlə əlaqə saxlaya bilərsiniz
+  mail:   E-poçt
+  text_3: Bu poçt ünvanına yaza bilərsiniz
+
+#Countdown Content
+countdown:
+  column_1: >-
+            <p>Ölkəmizdə</p>
+            <div class="counter">4</div><p>milyon</p>
+            <div class="counter">893</div><p>min</p>
+            <p>əcnəbi yaşayır</p>
+  column_2: >-
+            <p>Bu əhalinin</p>
+            <div class="counter">1</div><p>milyon</p>
+            <div class="counter">792</div><p>min</p>
+            <p>nəfəri oturma icazəsinə sahibdir</p>
+  column_3: >-
+            <p>Bu isə</p>
+            <div class="counter">3</div><p>milyon</p>
+            <div class="counter">101</div><p>min</p>
+            <p>nəfərin hələ oturma icazəsi olmadığını göstərir</p>
+  column_4: >-
+            <p>EuroPermit olaraq</p>
+            <p>Burada işə biz qarışırıq!</p>
+            <p>Türkiyədə yaşamaq istəyən əcnəbilərin proseslərini problemsiz həll etmək üçün ən yaxşı xidmət göstəririk</p>
+
+#Sidebar Content
+sidebar:
+  text_1:     Yeni Paylaşımlar
+  text_2:     Reklam
+  popular:    Məşhur Axtarışlar
+  categories: Kateqoriyalar
+
+#Footer Content
+footer:
+  header_1: Haradayıq?
+  header_2: Bizi çağırın
+  header_3: Bizə yazın
+  header_4: Bizi izləyin
+  header_5: Faydalı Keçidlər
+  copyright_text: Copyright &copy; 2019 <a href="/">EuroPermit
+
+#404 Content
+page_404:
+  text: >-
+            <h1>404</h1>
+            <p><strong>Səhifə tapılmadı :(</strong></p>
+            <p>Axtardığınız səhifə mövcud deyil.</p>
+            <b><a href="{{site.url}}">Ana səhifəyə</a> keç</b>

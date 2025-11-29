@@ -1,0 +1,31 @@
+#Please use the main menu items under the "text"
+
+- text: Homepage
+  url: /en
+- text: About us
+  url: /en/pages/about
+- text: Blog
+  url: /en/pages/blog
+- text: Services
+  url: /en/pages/services
+- text: Social Media
+  url: /en/pages/social-media
+  submenu:
+  - text: Facebook
+    url: https://www.facebook.com/yildizglobal/
+  - text: İnstagram
+    url: https://instagram.com/yldzglobal_/
+  - text: Tiktok
+    url: https://tiktok.com/@starpermit
+- text: Contact
+  url: /en/pages/contact
+- text: <i class="icofont-earth" style="font-size:20px; display:inline-block"></i>
+  url: ""
+  submenu:
+  - text: <l>Türkçe 🇹🇷</l>
+    lang: tr
+  - text: <o><b>English 🇬🇧</b></o>
+    lang: en
+    checked: true
+  - text: <l>Azərbaycanca 🇦🇿</l>
+    lang: az

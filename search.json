@@ -1,0 +1,29 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for service in site.services %}
+    {
+      {% if site.lang == "tr" %}
+      "title"    : "{{ service.title_tr | escape }}",
+      {% else if site.lang == "en" %}
+      "title"    : "{{ service.title_en | escape }}",
+      {% else if site.lang == "az" %}
+      "title"    : "{{ service.title_az | escape }}",
+      {% endif %}
+      "category" : "{{ service.category }}",
+      "tags"     : "{{ service.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ service.url }}",
+      "date"     : "{{ service.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

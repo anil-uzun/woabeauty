@@ -1,0 +1,44 @@
+<!-- Titles Section -->
+<div class="service-details mb-30">
+    <div class="accordion-box">
+        <div class="accordion-item">
+            <input type="checkbox" class="jumptarget" checked onclick='window.location.assign("#tab0")' id="tab0"/>
+            <label for="tab0" class="accordion-title text-center"><b>{% translate global.headers %}</b></label>
+            <div class="accordion-content">
+                <blockquote class="blockquote single-quote">
+                    <div class="sidebar-link grey-bg">
+                        <ul>
+                        {% if site.lang == "tr" %}
+                            {% for href in page.hrefs_tr %}
+                                {% if href.size == 1 %}
+                                    <li><a href="#{{href}}">{{href}} <o><b>Tıkla ve Öğren</b></o></a></li>
+                                {% else %}
+                                    <ul class="pt-0">
+                                    {% for alt_href in href %}
+                                        <li><a href="#{{alt_href}}">{{alt_href}} <o><b>Tıkla ve Öğren</b></o></a></li>
+                                    {% endfor %}
+                                    </ul>
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                        {% if site.lang == "en" %}
+                        {% for href in page.hrefs_en %}
+                            {% if href.size == 1 %}
+                                <li><a href="#{{href}}">{{href}} <o><b>Click to Find Out</b></o></a></li>
+                            {% else %}
+                                <ul class="pt-0">
+                                {% for alt_href in href %}
+                                    <li><a href="#{{alt_href}}">{{alt_href}} <o><b>Click to Find Out</b></o></a></li>
+                                {% endfor %}
+                                </ul>
+                            {% endif %}
+                        {% endfor %}
+                        {% endif %}
+                        </ul>
+                    </div>
+                </blockquote>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of Titles Section -->

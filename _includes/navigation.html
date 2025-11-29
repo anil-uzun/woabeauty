@@ -1,0 +1,76 @@
+<nav id="mobile-menu">
+<ul>
+  <!-- TR header -->
+    {% if site.lang == "tr" %}
+        {% assign navigation = site.data.navigation_tr %}
+    {% endif %}
+    {% if site.lang == "en" %}
+        {% assign navigation = site.data.navigation_en %}
+    {% endif %}
+    {% if site.lang == "az" %}
+        {% assign navigation = site.data.navigation_az %}
+    {% endif %}
+    
+    {% for link in navigation %}
+    {% assign active = nil %}
+
+    {% for sublink in link.submenu %}
+        {% if page.url contains sublink.url %}
+            {% assign active = 'active' %}
+        {% endif %}
+    {% endfor %}
+
+    {% if page.url contains link.url %}
+        {% assign active = 'active' %}
+    {% endif %}
+    <li>
+        <div class="menu">
+        {% if link.url != "" %}
+        <a href="{{link.url}}">{{link.text}}{% if link.submenu %}<i class="icofont-simple-down"></i>{% endif %}</a>
+        {% else %}
+        <a>{{link.text}}{% if link.submenu %}<i class="icofont-simple-down"></i>{% endif %}</a>
+        {% endif %}
+        </div>
+        {% if link.submenu %}
+        <ul class="sub-menu">
+            {% for sublink in link.submenu %}
+                {% if sublink.lang %}
+                    {% if sublink.checked % %}
+                        <li><a>{{sublink.text}} <i class="icofont-check"></i></a></li>    
+                    {% else %}
+                        {% if sublink.lang == "tr" %}
+                            {% if service.permalink %}
+                            {% assign permalink = service.permalink %}
+                            {% else %}
+                            {% assign permalink = page.permalink %}
+                            {% endif %}
+                            <li><a href="{{site.url}}{{permalink}}">{{sublink.text}}</a></li>
+                        {% else %}
+                            {% if sublink.lang == "en" %}
+                                {% if service.permalink %}
+                                    {% assign permalink = service.permalink_en %}
+                                {% else %}
+                                    {% assign permalink = page.permalink_en %}
+                                {% endif %}
+                            {% endif %}
+                            {% if sublink.lang == "az" %}
+                                {% if service.permalink %}
+                                    {% assign permalink = service.permalink_az %}
+                                {% else %}
+                                    {% assign permalink = page.permalink_az %}
+                                {% endif %}
+                            {% endif %}
+                            <li><a href="/{{sublink.lang}}{{permalink}}">{{sublink.text}}</a></li>
+                        {% endif %}
+                    {% endif %}
+                {%else%}
+                    <li><a href="{{sublink.url}}">{{sublink.text}}</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+</nav>
+  <!-- End of TR header -->
