@@ -30,7 +30,7 @@
     <!-- Site Title -->
     <title>{% if site.lang == "tr" %}{% if page.title_tr %}{{page.title_tr}}{% else %}{{page.title}}{% endif %}{% endif %}
         {% if site.lang == "en" %}{% if page.title_en %}{{page.title_en}}{% else %}{{page.title}} {% endif %}{% endif %}</title>
-    <link rel="icon" href="/assets/img/favicon.png">
+    <link rel="icon" href="{{site.baseurl}}/assets/img/favicon.png">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/fontawesome.min.css">
