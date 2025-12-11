@@ -15,7 +15,7 @@ facebook_url: https://www.facebook.com/
 twitter_url: https://twitter.com/
 tiktok_url: https://www.tiktok.com/
 instagram_url: https://www.instagram.com/WoaBeautyLevent
-logo: "/assets/img/logo/logo.png"
+logo: "assets/img/logo/logo.png"
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 mailchimp_input_name: "b_307862c135e4548eecf86f389_342411fb35"
 
@@ -32,7 +32,7 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
 
-cover_image: "/assets/img/bg/page-title.jpg"
+cover_image: "assets/img/bg/page-title.jpg"
 
 
 #collections

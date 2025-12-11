@@ -1,6 +1,6 @@
 ---
 layout: featured
-title_tr: Pumpkin (Balkabağı) Bakımı
+title_tr: Kirpik Lifting
 
 permalink: hizmetler/kirpik-lifting
 

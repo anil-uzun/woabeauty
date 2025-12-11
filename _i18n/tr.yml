@@ -70,10 +70,11 @@ blog:
 
 #services Content
 services:
-  opt_all:    El ve Ayak
-  opt_perm:   Bütün Vücut
-  opt_doc:    Yüz
-  text:       WoaBeauty - İhtiyacınız olabilecek her türlü yardımı hizmetlerimizin arasında bulabilirsiniz
+  opt_all:    Hepsi
+  opt_body:   Bütün Vücut
+  opt_face:   Yüz
+  opt_h&f:    El ve Ayak 
+  text:       ""
   service_1:  ALTIN ORAN KAŞ TASARIMI
   text_1:     --
   service_2:  EL VE AYAK BAKIMI

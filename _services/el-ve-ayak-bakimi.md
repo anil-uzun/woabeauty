@@ -7,6 +7,7 @@ number: 2
 
 permalink: hizmetler/el-ve-ayak-bakimi
 
+type: el-ayak
 hrefs_tr: [["Oturma İzni nedir?"], ["Oturma İzni Çeşitleri"], ["Oturma iznimi ne zaman uzatabilirim?"], ["Oturma İzni İçin Neden Bir Danışmanlıktan Yardım Almalıyım?"]]
 hrefs_en: [["What is a Residence Permit?"], ["Types of Residence Permits"], ["When can i extend my residence permits validity?"], ["Why should i get the help of a consulting service for getting a residence permit?"]]
 tags: permit izin

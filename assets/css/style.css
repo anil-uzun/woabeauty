@@ -795,7 +795,7 @@ label {
 
 /* slick dots */
 .slider-active .slick-dots li {
-	display: inline-block;
+	display: none;
 }
 .slider-active .slick-dots {
 	z-index: 99;
@@ -912,6 +912,7 @@ label {
 	/* border: 1px solid #e6e6e6; */
 	transition: .3s;
 	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 5%;
 }
 .services-box:hover {
 }
@@ -933,6 +934,7 @@ label {
 }
 .services-img {
 	margin-bottom: 25px;
+	border-radius: 5%;
 	overflow: hidden;
 }
 .services-img img {

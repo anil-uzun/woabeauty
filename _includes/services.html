@@ -11,8 +11,9 @@
             <div class="col-xl-12 text-center pb-40">
                 <div class="portfolio-menu jumptarget-dark" id="serv">
                     <button class="active" data-filter="*">{% translate services.opt_all %}</button>
-                    <button class="p-item" data-filter=".izin">{% translate services.opt_perm %}</button>
-                    <button class="p-item" data-filter=".belge">{% translate services.opt_doc %}</button>  
+                    <button class="p-item" data-filter=".yüz">{% translate services.opt_face %}</button>
+                    <button class="p-item" data-filter=".vücut">{% translate services.opt_body %}</button> 
+                    <button class="p-item" data-filter=".el-ayak">{% translate services.opt_h&f %}</button> 
                 </div>
             </div>
         </div>
@@ -23,7 +24,7 @@
                 {% assign a = "/" + site.lang %}
             {% endif %}
             {% for service in site.services %}
-            <div class="col-xl-4 col-lg-4 col-md-6 mb-50 grid-item">
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-50 grid-item {{service.type}}">
                 <div class="services-box">
                     <div class="services-img">
                     <a href="{{site.baseurl}}{{a}}/{{service.permalink}}">
@@ -34,13 +35,6 @@
                             {% assign title_key = "title_" | append: site.lang %}
                             <h5>{{ service[title_key] }}</h5>
                         </div>
-                        <!-- <div classZ="card-text">
-                            {% assign n = service.number %}
-                            {% assign key = "services.text_" | append: n %}
-                            <p>{% t key %}</p>
-                        </div> -->
-                    </a>
-                        <a href="{{site.baseurl}}{{a}}/{{service.permalink}}" class="btn">{% translate global.continue %}</a>
                     </div>
                 </div>
             </div>

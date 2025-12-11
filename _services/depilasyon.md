@@ -7,7 +7,7 @@ permalink: hizmetler/depilasyon
 
 number: 3
 
-relevancy_tags_tr: [Tahdit]
+type: vücut
 hrefs_tr: [["Deport Kararı Nedir?"], ["Kimler Deport Edilebilir?"], ["Deport Edildikten Sonra Türkiyeye Geri Dönülür mü?"], ["Kimler Deport Edilemez?"]]
 hrefs_en: [["What is deportation?"], ["Who can be deported?"], ["Can you come back to Turkey after being Deported?"], ["Who can't be deported?"]]
 tags: Tahdit
