@@ -1,15 +1,15 @@
 #Please use the main menu items under the "text"
 
 - text: Anasayfa
-  url: /{{site.baseurl}}/
+  url: {{site.baseurl}}/
 - text: Hakkımızda
-  url: /{{site.baseurl}}/sayfalar/hakkimizda
+  url: {{site.baseurl}}/sayfalar/hakkimizda
 - text: Blog
-  url: /{{site.baseurl}}/sayfalar/blog
+  url: {{site.baseurl}}/sayfalar/blog
 - text: Hizmetlerimiz
-  url: /{{site.baseurl}}/sayfalar/hizmetler
+  url: {{site.baseurl}}/sayfalar/hizmetler
 - text: Sosyal Medya Sayfalarımız
-  url: /{{site.baseurl}}/sayfalar/sosyal-medya
+  url: {{site.baseurl}}/sayfalar/sosyal-medya
   submenu:
   - text: Facebook
     url: https://www.facebook.com/yildizglobal/
@@ -18,4 +18,4 @@
   - text: Tiktok
     url: https://tiktok.com/@starpermit
 - text: İletişim
-  url: /{{site.baseurl}}/sayfalar/iletisim
+  url: {{site.baseurl}}/sayfalar/iletisim
