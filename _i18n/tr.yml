@@ -6,11 +6,12 @@ langs:
 
 #globals
 global:
+  services:     hizmetler
   pages:        Sayfalar
   continue:     Devam Et ➤
   share:        Paylaş
-  adress:       Mecidiyeköy Mah. Kervan Geçmez sok.<br> Dilan Sitesi No/9-1 B-2 Blok K.3 Ofis No:6<br> İstanbul, Türkiye
-  adress_str:   Mecidiyeköy Mah. Kervan Geçmez sok. Dilan Sitesi No/9-1 B-2 Blok K.3 Ofis No:6 İstanbul, Türkiye
+  adress:       Çeliktepe Mah. İnönü Cad. Utku İşhanı No:21 D:1 34413 Kağıthane/İstanbul
+  adress_str:   Çeliktepe Mah. İnönü Cad. Utku İşhanı No:21 D:1 34413 Kağıthane/İstanbul
   mail:         support@euro-permit.com
   headers:      Başlıklar
   site_lang:    Site Dili
@@ -38,24 +39,6 @@ titles:
   blog:         "Blog"
   services:     "Hizmetlerimiz"
   social-media: "Sosyal Medya Sayfalarımız"
-  countries:    "Türkiye'ye En Çok Göç Veren Ülkeler"
-
-countries:
-  syria:        "Suriye"
-  text_1:       "Türkiye’ye yeni bir hayat kurmak ve istikrarlı iş fırsatları bulmak için gelen Suriyeli vatandaşlara destek veriyoruz. Ekibimiz, çalışma izni ve oturma vizesi işlemlerini hızlı ve sorunsuz şekilde tamamlamalarına yardımcı oluyor."
-  russia:       "Rusya"
-  text_2:       "Rusya’dan gelen profesyonellere Türkiye çalışma vizesi başvurularında kişisel destek sunarak, daha hızlı sonuçlar ve daha iyi iş fırsatları elde etmelerine yardımcı oluyoruz."
-  turkmenistan: "Türkmenistan"
-  text_3:       "Türkmenistan’dan birçok kişi Türkiye’ye inşaat, ev hizmetleri ve hizmet sektörü işleri için geliyor. Biz de onların çalışma izni başvurularını baştan sona kolay, eksiksiz ve başarılı hale getiriyoruz."
-  uzbekistan:   "Özbekistan"
-  text_4:       "Özbek vatandaşlar genellikle turizm, otelcilik ve perakende sektörlerinde çalışmak üzere Türkiye’ye geliyor. Biz de onların Türkiye çalışma izni ve vize sürecini adım adım takip ederek, hızlı ve net sonuçlar almalarını sağlıyoruz."
-  iran:         "Iran"
-  text_5:       "İş, eğitim veya kültürel amaçlarla Türkiye’ye gelen İranlı vatandaşlara destek veriyoruz. Hizmetlerimiz, oturma ve çalışma izni almalarını kolaylaştırarak hedeflerine odaklanmalarını sağlar."
-  afghanistan:  "Afganistan"
-  text_6:       "Daha iyi iş fırsatları ve aile düzeni için Türkiye’ye gelen Afgan vatandaşlara yardımcı oluyoruz. Uzman ekibimiz, çalışma vizesi başvuruları, belge hazırlığı ve işveren iletişimi konularında destek sunar."
-  azerbaijan:   "Azerbaycan"
-  text_7:       "Türkiye’ye mesleki gelişim, ticaret veya iş birliği için gelen Azerbaycanlı vatandaşlarla çalışıyoruz. Ekibimiz, onların Türkiye vize ve çalışma izni işlemlerini hızlı ve özenli şekilde yürütür."
-
 
 #top header Content
 header_top:
@@ -68,21 +51,17 @@ search:
 
 #slider Content
 slider:
-  title_1:  Türkiye Yabancı<br>Danışmanlık Hizmeti<br><span>EuroPermit</span>
+  title_1:  Kamer Yüzer<br>Güzellik Evi<br><span>WoaBeauty</span>
   btn_1:    Hizmetlere Git
-  title_2:  Sosyal medya<br>Sayfalarımızı da <span>inceleyin</span>
-  text_2:   Sosyal medya hesaplarımızı takip ederek<br> markamız hakkındaki gelişmelerden haberdar olabilirsiniz.
-  btn_2:    Sosyal Medya Sayfalarımız
 
 #about Content
 about:
-  subtitle_1: Misyonumuz ve Vizyonumuz
+  subtitle_1: Hakkımızda
   text_1: >- 
-              EuroPermit olarak, müşterilerimizin İkamet İzni - Çalışma İzni - Vatandaşlık ve daha bir çok belgeyle alakalı <b>bütün</b> problemlerini en 
-              etkili şekilde çözmek, Müşterilerimizin Türkiye'ye göç deneyimininin <b>olabildiğince</b> pürüzsüz geçmesini sağlamak bizim en değerli amacımızdır.
-  subtitle_2: Nasıl Çalışıyoruz?
-  text_2:     EuroPermit olarak; sorunlarınıza, etkili ve olabilecek en hızlı çözümleri sunar, bizi seçtiğiniz için sizi pişman etmeyiz.
-
+              Kamer Yüzer Güzellik Evi, saç bakımı ve güzellik hizmetlerinde kaliteyi, doğallığı ve profesyonelliği öncelikli kılan bir merkezdir. Salonumuzda, deneyimli eğitmenimiz Kamer Yüzer önderliğinde, her müşterimize özel ve özenli bir hizmet sunuyoruz.
+              Uzman ekibimiz ve modern tekniklerimiz ile saç bakımı, cilt bakımı, makyaj, kirpik lifting, kalıcı makyaj ve refleksoloji gibi geniş bir hizmet yelpazesi sunuyoruz. Amacımız sadece güzel görünmenizi sağlamak değil; aynı zamanda kendinizi değerli, özel ve bakımlı hissetmenizi garanti etmektir.
+              Kamer Yüzer Güzellik Evi, hijyen ve güvenlik standartlarından ödün vermeden, kişiye özel çözümler sunarak her ziyarette benzersiz bir bakım deneyimi yaşamanızı hedefler. Bizimle, güzellik ve bakım yolculuğunuzu uzman ellerde keşfedin.
+              
 #blog Content
 blog:
   subtitle_1: Güncel Blog
@@ -94,293 +73,191 @@ services:
   opt_all:    HEPSİ
   opt_perm:   İZİNLER
   opt_doc:    BELGELER
-  text:       EuroPermit - İhtiyacınız olabilecek her türlü yardımı hizmetlerimizin arasında bulabilirsiniz
-  service_1:  Türkiye Vatandaşlığı
+  text:       WoaBeauty - İhtiyacınız olabilecek her türlü yardımı hizmetlerimizin arasında bulabilirsiniz
+  service_1:  ALTIN ORAN KAŞ TASARIMI
   text_1:     Türkiye Cumhuriyeti vatandaşı olmak, bir Türkiye Cumhuriyeti vatandaşının haklarından yararlanmak için gerekli işlemlerinizde danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
-  service_2:  Oturma İzni
+  service_2:  EL VE AYAK BAKIMI
   text_2:     Türkiye'de oturmak, Türkiye'de uzun dönem kalabilmek için gerekli olan oturma iznini çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
-  service_3:  Sınırdışı (Deport) İptali
+  service_3:  DEPİLASYON
   text_3:     Hakkınızda ya da bir yakınınız hakkında verilen deport kararını değiştirmede danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
-  service_4:  Çalışma İzni
+  service_4:  İĞNELİ EPİLASYON
   text_4:     Türkiye'de çalışmak, Türkiye'de iş kurmak için gerekli olan çalışma iznini çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
-  service_5:  Vize İşlemleri
+  service_5:  PROFESYONEL MAKYAJ
   text_5:     Türkiye'ye gelmek, türkiye'yi gezmek ve o süre içerisinde Türkiye'de ikamet edebilme hakkını size sağlayan Türkiye vizesini çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
-  service_6:  Sağlık Sigortası
+  service_6:  KLASİK CİLT BAKIMI
   text_6:     Oturma izni için gerekli olan yabancı sağlık sigortasını çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
-  service_7:  Pasaport İşlemleri
+  service_7:  PUMPKİN (BALKABAĞI) BAKIMI
   text_7:     Pasaport çıkarmada danışmanlığımızın hizmetlerinden yararlanmak Türkiye pasaportunun sağladığı yararlardan faydalanmak için bize ulaşın. (Sadece Vatandaşlara verilir)
 
 #service Content
 
 #service 1 Content
 service_1:  
-  header_1: Neden Bir Türk Vatandaşı Olmak İsteyeyim?
-  btn_1:    Danışmanlığımızın hizmetlerinden yararlanmak İçin Tıkla ve Bizimle İletişime Geç
-  text_1: >- 
-            <o class="fas fa-caret-right"></o> 
-            Türk vatandaşı olduğunuz zaman devletin Türk vatandaşlarına sunduğu haklardan yararlanabilirsiniz.<br>
-            <div class="ml-3 mt-1 mb-1">
-            <o><b>-</b></o> Oy verebilmek<br>
-            <o><b>-</b></o> Yüksek kalitedeki eğitime erişim<br>
-            <o><b>-</b></o> Yüksek kalitedeki sağlık sistemine erişim<br>
-            <o><b>-</b></o> Arsa sahibi olabilmek<br>
-            </div>
-            gibi daha birçok haktan yararlanmış olursunuz.<br>
-            <o class="fas fa-caret-right"></o> Eşiniz ve çocuklarınız da vatandaş olma hakkını kazanır.<br>
-            <o class="fas fa-caret-right"></o> Çifte vatandaşlık sahibi olabilirsiniz. Türkiye aynı anda iki farklı ülkeden vatandaşlık sahibi olmanıza olanak tanıyor! <br>
-            <o class="fas fa-caret-right"></o> Türkiye'de ne kadar uzun süre kalabileceğiniz sınırlandırılmıyor, 
-            Türkiye'ye istediğiniz gibi gir çık yapabilirsiniz ve istediğiniz kadar kalabilirsiniz!
-  header_2: Vatandaş Olmak İçin Neden Bir Danışmanlıktan Yardım Almalıyım?
-  btn_2:    Danışmanlığımızın hizmetlerinden yararlanmak İçin Tıkla ve Bizimle İletişime Geç
-  text_2: >-
-            Vatandaşlık başvuru işlemleri yapılırken dikkat edilmesi gereken bir sürü husus bulunmaktadır. 
-            Yapılması gereken şeyler unutulup atlanabilir, gerekli belgeler tamamlanamayabilir, bu hatalar 
-            işlerin aksamasına para ve zaman kaybına ve çok daha kötü sonuçlara yol açabilir.
-  header_3: Türk Vatandaşlığı Kazanma Yöntemleri
-  acc_1:    Vatandaşlığın Doğumla Kazanılması
-  con_1: >- 
-            Soy bağı ile kazanılan vatandaşlık, çocuğun doğumu anında soy bağı ile bağlı bulunduğu Türk vatandaşı ana veya babanın vatandaşlığını kazanmasını ifade eder.
-            Soy bağı ile Türk vatandaşlığının kazanılmasında; ana veya babadan yalnız birinin, doğum anında Türk vatandaşı olması yeterli olup diğerinin yabancı bir devlet vatandaşı olması Türk vatandaşlığının kazanılmasına engel teşkil etmez.
-            Doğum yeri esasına göre vatandaşlık kazanılması:
-            Türkiye’de doğan ve ana ve babasının belli olmaması veya vatansız bulunması ya da milli kanunları gereğince vatandaşlık kazanamaması gibi nedenlerle herhangi bir devletin vatandaşlığını kazanamayan çocuk, doğumundan itibaren Türk vatandaşlığını kazanır. 
-            Türkiye’de bulunmuş çocuk, Türkiye dışında doğduğu sabit olmadıkça Türkiye’de doğmuş sayılır. 
-  acc_2:    Vatandaşlığı Sonradan Kazanma Yöntemleri
-  con_2: >- 
-            <ul>
-              <li><a href="#">Türk vatandaşlığının yatırım yolu ile kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının yetkili makam kararı ile kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının genel yolla kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının istisnai olarak kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının yeniden kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının evlenme yoluyla kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının evlat edinilme yoluyla kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-              <li><a href="#">Türk vatandaşlığının seçme yoluyla kazanılması <o><b>Tıkla ve Öğren</b></o></a></li>
-            </ul>
-  acc_3:    Vatandaşlığın Yatırım Yoluyla Kazanılması
-  con_3: >-
-            <b>Yatırım yolu ile vatandaşlık kazanmanın ayrıntıları</b><br>
-            Türk Vatandaşlığı Kanunu’nun 46. maddesi gereği Cumhurbaşkanı tarafından çıkarılan; 19.09.2018 tarihli Resmî Gazete’de yayımlanan, 106 sayılı Cumhurbaşkanlığı Kararı ve son olarak 7.12.2018 tarihli Resmî Gazete’de yayımlanan 418 sayılı Cumhurbaşkanlığı Kararı ile yapılan değişiklikler ile birlikte yabancılar aşağıdaki şartlardan birini sağlamaları halinde Türk vatandaşlığını kazanabileceklerdir:
-            250 bin Amerikan Doları ve üzerinde bir miktarda taşınmaz satın alıp bu taşınmaz için tapu kaydından 3 yıl satılmayacağına dair şerh koydurarak vatandaşlık kazanılabilir. 250 bin Amerikan Doları asgari miktardır. Önceki düzenlemede bu miktar 1 milyon Amerikan Doları iken yeni düzenleme ile 250 Bin Dolara indirilmiş olması, gayrimenkul satın alarak vatandaşlık almak isteyenlerin lehine bir düzenlemedir.
-            500 bin Amerikan Doları veya üzerinde bir sermaye yatırımının yapılmış olması. 500 bin Dolar en az miktardır.
-            En az 250 bin Dolar tutarında kat mülkiyeti veya kat irtifakı kurulmuş yapı için taşınmaz satış vaadi sözleşmesi yapılması da aynı imkanı yabancıya verecektir. Burada da yapının veya sözleşmenin devrinin 3 sene boyunca yapılamayacağı noterde yapılan satış vaadi sözleşmesine eklenir. Önceki düzenlemede1 milyon Amerikan Doları olan bu miktar yeni düzenleme ile 250.000 Dolar’a düşürülmüştür.
-            Türkiye’de en az 50 kişilik istihdam alanı oluşturan kişi yatırım yoluyla vatandaşlık imkanını elde etmiş olur. Önceki düzenlemede 100 kişilik istihdam aranıyordu.
-            500 bin Amerikan Doları yahut bunun karşılığı kadar döviz veya TL miktarını Türk bankalarına en az 3 yıl çekmemek şartıyla yatıran kişi de aynı imkana sahiptir.
-            Devlet borçlanma araçlarını en az 3 yıl tutmak şartı ile en az 500 bin Amerikan Doları yahut üstü bir miktarda satın alan kişi de yatırım yoluyla Türk vatandaşlığını kazanır.
-            En az 500 bin Amerikan Doları yahut karşılığı döviz veya TL kadar “gayrimenkul yatırım fonu katılma payı” veya “girişim sermayesi yatırım fonu katılma payı” satın alan ve bunları en az 3 sene elinde tutacağını taahhüt eden kişi de gene bu kapsamda vatandaşlık hakkı elde eder. Önceki düzenlemede bu miktar 1.5 milyon Amerikan Dolarıydı.
-            Cumhurbaşkanlığı Kararında belirlenen miktarlar Dolar kuru üzerinden Türk Lirası veyahut karşılığı döviz kadar olabilmektedir.
-  acc_3B:   Yatırım Yoluyla Türk Vatandaşlığı İçin Gerekli Belgeler
-  con_3B: >-
-              Başvuru Formu
-              2 adet biyometrik foto
-              Pasaport ve noter onaylı Türkçe tercümesi
-              Doğum belgesi
-              Medeni durum belgesi
-              Tapu veya yatırımı gösteren belgeler
-              Taşınmaz değerleme raporu
-              Tam vukuatlı nüfus kayıt örneği
-              Harç ödeme dekontu
-  acc_4:    "4. Yöntem"
-  con_4:    "4. Yöntemin Açıklaması"
+  header_1: --
+  btn_1:    Bizimle İletişime Geç
+  text_1: >-
+            Altın Oran Kaş Tasarımı, yüzünüzün doğal anatomisine uygun olarak kaşlarınızın ideal formda şekillendirilmesini sağlayan bilimsel ve estetik bir tekniktir. Bu yöntemde yüzün simetrisi, göz yapısı, alın genişliği ve burun oranları özel ölçümlerle analiz edilir. Elde edilen veriler doğrultusunda kaşlara kişiye özel en doğal ve dengeli şekil verilir.<br>
+            Altın oran prensibine göre tasarlanan kaşlar, yüz ifadesini daha canlı, dengeli ve estetik gösterir. Asimetrik, seyrek veya düşük kaş problemleri doğal görünüm bozulmadan düzeltilir. Uygulama, yüz hatlarınızı sertleştirmeden daha genç, dinamik ve bakımlı bir görünüm kazandırmayı hedefler.<br>
 
 #service 2 Content
 service_2:
-  header_1: Oturma İzni nedir?
-  btn_1:    Oturma İzni Çıkartmada Danışmanlığımızın hizmetlerinden yararlanmak İçin Bizimle İletişime Geç
+  header_1: EL VE AYAK BAKIMI
+  btn_1:    Bizimle İletişime Geç
   text_1: >-
-            Oturma izni Türkiye’de kalmak isteyen ülkemizde vize veya vize muafiyetinin tanıdığı süreden -genelde doksan gün- fazla kalacak yabancıların alması gereken belgedir.
-  header_2: Oturma İzni İçin Neden Bir Danışmanlıktan Yardım Almalıyım?
-  text_2: >-
-            Oturma izni alma prosedürü <b>çok dikkatlice</b> yapılması gereken ve zamanla değişebilen bir süreçtir, 
-            hata yapma riski yüksek olduğundan ve hata yapıldığında <b>çok büyük sonuçlar doğurabilen</b> bir süreç olduğundan 
-            dolayı riski en aza indirmek için bize ulaşmanız en mantıklı karar olacaktır.
-  header_3: Oturma iznimi ne zaman uzatabilirim?
-  text_3: >-
-            Oturma izninin bitmesine kalan son 60 gün içerisinde oturma izninizi uzatma başvurusunda bulunabilirsiniz. 
-            Uzatma başvuruları bu süre içinde <b>kesinlikle</b> yapılmalıdır eğer yapılmazsa bu süre bittikten sonra cezai işlemlere başlanır.
-  btn_2:    Oturma İznini Uzatmada Danışmanlığımızın hizmetlerinden yararlanmak İçin Bizimle İletişime Geç
-  header_4: Oturma İzni Çeşitleri
-  acc_1:    Kısa Dönem Oturma İzni
-  con_1:  >-
-            Kısa Dönem Oturma İzni Kimlere Verilir?<br>
-            <o class="fas fa-caret-right"></o> Ticari bağlantı veya iş kuracak olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Turizm amaçlı ikamet edecek yabancılar<br>
-            <o class="fas fa-caret-right"></o> Türkiye Cumhuriyetinin taraf olduğu anlaşmalar ya da öğrenci değişim programları çerçevesinde eğitim veya benzeri amaçlarla gelecek olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Aile ikamet izni şartlarını kaybetmesi durumunda kısa dönem ikamet iznine geçirilecek olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Türkçe öğrenme kurslarına katılacak olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Kuzey Kıbrıs Türk Cumhuriyeti vatandaşı olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Bilimsel araştırma amacıyla gelecek olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Türkiye’de taşınmaz malı bulunan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Hizmet içi eğitim programına katılacak olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Kamu sağlığına tehdit olarak nitelendirilen hastalıklardan birini taşımamak kaydıyla tedavi görecek olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Adli veya idari makamların talep veya kararlarına bağlı olarak Türkiye’de kalması gereken yabancılar<br>
-            <o class="fas fa-caret-right"></o> Kamu kurumları aracılığıyla Türkiye’de eğitim, araştırma, staj ve kurslara katılacak olan yabancılar<br>
-            <o class="fas fa-caret-right"></o> Türkiye’de yükseköğrenimini tamamlayanlardan mezuniyet tarihinden itibaren altı ay içinde müracaat eden yabancılar<br>
-            <o class="fas fa-caret-right"></o> Türkiye’de çalışmayan ancak Bakanlar Kurulunca belirtilecek kapsam ve tutarda yatırım yapacaklar ile bunların yabancı eşi, kendisinin ve eşinin ergin olmayan veya bağımlı yabancı çocuğu;<br>
-  acc_2:    Uzun Dönem Oturma İzni
-  con_2: >-
-            <b>Uzun dönem ikamet izni hangi şartlar altında verilir?</b><br>
-            Türkiyede en az 8 yıl kalmış olan veya bakanlığın belirlediği koşullara uyan yabancılara bakanlık tarafından valilik aracılığıyla süresiz ikamet izni verilir.<br>
-            Uzun dönem ikamet izni için karşılanması gereken şartlar:<br>
-            <o class="fas fa-caret-right"></o> Kesintisiz en az sekiz yıl ikamet izniyle Türkiye’de yaşamış olmak (Kesintisiz sekiz yılın hesaplanmasında Kanunun 38. Maddesinde yer alan öğrenci ikamet izni süresinin yarısı, diğer ikamet izinlerinin ise tamamı sayılmaktadır.)<br>
-            <o class="fas fa-caret-right"></o> Son üç yıl içinde sosyal yardım almamış olmak<br>
-            <o class="fas fa-caret-right"></o> Kendisi veya varsa ailesinin geçimini sağlayacak yeterli ve düzenli gelire sahip olmak<br>
-            <o class="fas fa-caret-right"></o> Geçerli sağlık sigortasına sahip olmak<br>
-            <o class="fas fa-caret-right"></o> Kamu düzeni veya kamu güvenliği açısından tehdit oluşturmamak (Göç Politikaları Kurulunun uygun gördüğü yabancılar hariç)<br>
-  acc_3:    Aile Oturma İzni
-  con_3: >-
-            <b>Türkiyede ailecek oturmak istiyorsanız aile oturma izni sizin için en iyi seçenek olacaktır.</b><br>
-            Oturma izninizden ailenizdeki:<br>
-            <o class="fas fa-caret-right"></o> Yabancı eşiniz<br>
-            <o class="fas fa-caret-right"></o> Sizin veya eşinizin 18 yaşın altındaki yabancı çocuğu<br>
-            <o class="fas fa-caret-right"></o> Sizin veya eşinizin bağımlı yabancı çocuğunuz<br>
-            yararlanabilirler.<br>
-  acc_4:    Öğrenci Oturma İzni
-  con_4: >-
-            <b>Öğrenci Oturma İzni Kimlere Verilir?</b><br>
-            <o class="fas fa-caret-right"></o> Aile oturma izni olmayan ilk ve orta seviye öğrenim görecek yabancılara<br>
-            <o><b>-</b></o> Aile oturma izniniz bulunuyorsa 18 yaşının altında olduğunuz sürece ilk ve orta seviye öğrenim alırken ikamet izni almanıza gerek yoktur, 18 yaşını doldurduğunuz zaman halen ilk veya orta seviye öğrenim alıyorsanız bir oturma izni almanız gerekmektedir.<br>
-            <o class="fas fa-caret-right"></o> Ülkemizde bir yükseköğretim kurumunda ön lisans, lisans, yüksek lisans, doktora, Tıpta Uzmanlık Eğitimi (TUS), Diş Hekimliğinde Uzmanlık Eğitimi (DUS) seviyelerinde eğitim görecek yabancılara<br>
-            öğrenci ikamet izni düzenlenebilir.<br>
-  acc_5:    İnsani Oturma İzni
-  con_5:    <p></p>
-  acc_6:    İnsani Ticari Mağdur Oturma İzni
-  con_6:    <p></p>
+            El ve ayak bakımı; sadece estetik görünüm için değil, aynı zamanda sağlıklı bir cilt yapısı ve genel yaşam konforu için de büyük önem taşır. Gün içinde en çok dış etkenlere maruz kalan el ve ayaklar, düzenli bakım yapılmadığında kuruluk, çatlak, sertleşme ve çeşitli cilt problemleriyle karşı karşıya kalabilir.<br>
+            Profesyonel el ve ayak bakımı uygulamalarımızda öncelikle cilt yapınız analiz edilir. Ölü deriler nazik yöntemlerle arındırılır, tırnaklar sağlıklı şekilde şekillendirilir ve hijyenik koşullarda bakım yapılır. Özel bakım ürünleriyle cilt derinlemesine nemlendirilir, yumuşak ve pürüzsüz bir görünüm kazandırılır.<br>
+            Düzenli el ve ayak bakımı sayesinde:<br>
+            •	Çatlak ve sertleşmeler azalır.<br>
+            •	Tırnaklar daha sağlıklı uzar.<br>
+            •	Cilt yumuşak, bakımlı ve canlı bir görünüm kazanır.<br>
+            •	Günlük yaşamda konfor artar.<br>
+            •	Estetik ve hijyen bir arada sağlanır<br>
+            Uzman estetisyenlerimiz eşliğinde uygulanan el ve ayak bakımı, hem sağlığınızı korur hem de kendinizi daha iyi hissetmenizi sağlar.<br>
 
 #service 3 Content
 service_3:
-  header_1: Deport Kararı Nedir?
-  btn_1:    Hakkınızda ya da bir yakınınız hakkında verilen deport kararını değiştirmede danışmanlığımızın hizmetlerinden yararlanmak için tıklayın ve bizimle iletişime geçin
+  header_1: DEPİLASYON
+  btn_1:    Bizimle iletişime geçin
   text_1: >-
-            Deport kararı, yabancı bir vatandaşın belirli nedenlerle Türkiye sınırlarından çıkarılması olarak tanımlanabilir. 
-            Bu kararı ancak valilikler verebilir. Sınır dışı etme kararının değerlendirilmesi ve karara bağlanması aşaması en fazla 48 saat sürer.
-  header_2: Kimler Deport Edilebilir?
-  text_2: >-
-            <o class="fas fa-caret-right"></o> Suçlarından dolayı hapis cezasına çarptırılan yabancılar, cezasının infazından sonra İçişleri Bakanlığınca sınır dışı etme kararı verilenler veya her halükarda cezanın infazından sonra şartlı salıverilme veya şartlı salıverilme kararı verilenler.<br>
-            <o class="fas fa-caret-right"></o> Terör örgütü veya çıkar amaçlı bir suç örgütüyle herhangi bir bağı keşfedilenler<br>
-            <o class="fas fa-caret-right"></o> Türkiye'ye giriş, vize ve oturma izni işlemlerinde yanlış bilgi veya sahte belge kullananlar<br>  
-            <o class="fas fa-caret-right"></o> Türkiye'de bulunduğu süre boyunca geçimini gayri meşru yollardan sağlayanlar<br>
-            <o class="fas fa-caret-right"></o> Kamu düzeni, güvenliği veya sağlığı açısından tehdit oluşturanlar<br>
-            <o class="fas fa-caret-right"></o> Vize veya vize muafiyet süresini on günden fazla aşan veya vizesi iptal edilenler<br>
-            <o class="fas fa-caret-right"></o> İkamet izni iptal edilenler<br>
-            <o class="fas fa-caret-right"></o> İkamet izni sahibi olup, ikamet izni süresinin bitiminden sonra kabul edilebilir bir mazereti olmaksızın on günden fazla ikamet izni süresini ihlal edenler<br>
-            <o class="fas fa-caret-right"></o> Çalışma izni olmadan çalıştığı tespit edilenler<br>
-            <o class="fas fa-caret-right"></o> Türkiye'ye yasal giriş veya çıkış hükümlerini ihlal edenler<br>
-            <o class="fas fa-caret-right"></o> Türkiye'ye giriş yasağına rağmen Türkiye'ye geldiği tespit edilenler<br>
-            <o class="fas fa-caret-right"></o> Uluslararası koruma başvurusu reddedilenler, uluslararası koruma kapsamı dışında bırakılanlar, uluslararası koruma başvurusu kabul edilemez bulunanlar, uluslararası koruma başvurusu geri çekilenler, uluslararası koruma başvurusu geri çekilmiş sayılanlar, uluslararası koruma statüsü sona eren veya uluslararası koruma statüsü sona erenler İptal edilmiş, nihai karar ile Türkiye'de kalma hakkı yoktur.<br>
-  header_3: Deport Edildikten Sonra Türkiyeye Geri Dönülür mü?
-  text_3:   Eğer İdari mahkeme kararı bozarsa <o style="color:light_gray">genellikle açılan davanın kazanılması ile</o> Türkiye'ye geri dönebilirsiniz.<br><br>
-  header_4: Kimler Dedort Edilemez?
-  text_4: >-
-            <o class="fas fa-caret-right"></o> Sınır dışı edileceği ülkede ölüm cezası, işkence, insanlık dışı veya aşağılayıcı ceza veya muameleye tabi tutulacağına dair ciddi emareleri bulunanlar<br>
-            <o class="fas fa-caret-right"></o> Ciddi sağlık sorunları, yaşı ve hamilelik durumu nedeniyle seyahat etmesi riskli görülenler
-            <o class="fas fa-caret-right"></o> Hayati tehlikesi bulunan hastalıkları nedeniyle tedavileri devam ederken sınır dışı edilecekleri ülkede tedavi olma imkânı bulamayanlar<br>
-            <o class="fas fa-caret-right"></o> Mağdur destek sürecinden yararlanan insan ticareti mağdurları<br>
-            <o class="fas fa-caret-right"></o> Tedavisi tamamlanana kadar psikolojik, fiziksel veya cinsel şiddet mağdurları
+            Depilasyon, istenmeyen tüylerden geçici olarak kurtulmayı sağlayan, cildi pürüzsüz ve bakımlı bir görünüme kavuşturan etkili bir bakım uygulamasıdır. Doğru teknikler ve kaliteli ürünlerle yapılan depilasyon, ciltte tahrişi en aza indirirken uzun süreli temizlik ve konfor sağlar.<br>
+            Uygulama öncesinde cilt tipi ve hassasiyet durumu uzmanlarımız tarafından değerlendirilir. Ardından cilde uygun ağda veya depilasyon yöntemi seçilerek işlem hijyenik koşullarda gerçekleştirilir. İşlem sonrası cilt yatıştırıcı ve nemlendirici ürünlerle desteklenerek kızarıklık ve hassasiyet minimum seviyeye indirilir.<br>
+            Depilasyon uygulamasının avantajları:<br>
+            •	Ciltte anında pürüzsüzlük sağlar.<br>
+            •	Tüylerin daha geç ve incelerek çıkmasına yardımcı olur.<br>
+            •	Düzenli uygulamada cilt daha yumuşak ve bakımlı görünür.<br>
+            •	Hijyenik ve konforlu bir temizlik sunar.<br>
+            •	Tüm vücut bölgelerine güvenle uygulanabilir.<br>
+            Uzman ekip ve kaliteli ürünlerle gerçekleştirilen depilasyon uygulamamız sayesinde, kendinizi her zaman daha temiz, rahat ve özgüvenli hissedebilirsiniz.<br>
 
 #service 4 Content
 service_4:
-  header_1: Çalışma İzni Nedir? Ne Gibi Avantajlar Sağlar?
-  btn_1:    Danışmanlığımızın hizmetlerinden yararlanmak İçin Tıkla ve Bizimle İletişime Geç
-  header_2: Nedir?
-  text_2:    Çalışma izni, yabancı vatandaşların Türkiye'de çalışabilmelerini mümkün kılan, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından ilgili vatandaşın adına düzenlenen belgedir.
-  header_3: Sağladığı Avantajlar
-  text_3: >-
-            <o class="fas fa-caret-right"></o> Çalışma izni aynı zamanda ikamet izni yerine geçecektir bu sebepten ötürü çalışma izni alırsanız ikamet izni almanıza gerek kalmayacaktır.<br>
-            <o class="fas fa-caret-right"></o> Aileniz çalışma izninin sağladığı hakların bir kısmından yararlanabilir, bunlar:<br>
-            <div class="ml-3 mt-1 mb-1">
-            <o><b>-</b></o> Eşiniz ve 18 yaşından küçük çocuğunuz aile ikamet izni alabilir.<br>
-            <o><b>-</b></o> Eşiniz ve 18 yaşından küçük çocuğunuz Türkiye'deki bütün devlet hastanelerinde ücretsiz tedavi olabilir.<br>
-            </div>
-            gibi haklardır.<br>
-            <o class="fas fa-caret-right"></o> Türkiye'de kesintisiz 5 yıllık çalışma iznine sahip olduğunuzda Türk vatandaşı olmaya hak kazanırsınız.<br>
-            <o class="fas fa-caret-right"></o> Türkiye'den emekli olabilir. Emekli olduktan sonra bütün emeklilik imkanlarından yararlanma hakkını kazanırsınız.
-  header_4: Çalışma İznim Bitmek Üzere Ne Yapmalıyım?
-  text_4:   Çalışma izninizin bitmesi durumuda çalışma izninin sağladığı ikamet izni haklarınız da biteceğinden dolayı bir ikamet izni çıkartmanız veyahut çalışma izninizi uzatmanız gerecektir. 
-  header_5: Çalışma İznimi Ne Zaman Uzatabilirim?
-  text_5:   Çalışma izninin bitmesine kalan son 60 gün içerisinde oturma izninizi uzatma başvurusunda bulunabilirsiniz.
-  btn_2:    Tıkla ve İşlemlerinde Danışmanlığımızın hizmetlerinden yararlanmak İçin Bizimle İletişime Geç
-  header_6: Kimler Çalışma izni Alabilir?
-  text_6: >-
-            Lisans öğrencileri hariç olmak üzere en az 6 ay boyunca Türkiye'de ikamet iznine sahip olmuş yabancılara çalışma izni verilebilir.
-  header_7: En Çok Hangi Ülke Vatandaşlarına Çalışma İzni Veriliyor?
-  text_7: >-
-            Vatandaşlarına en çok çalışma izni verilen ülkeler:<br>
-            <o class="fas fa-caret-right"></o>
-            Suriye<br>
-            <o class="fas fa-caret-right"></o>
-            Rusya<br>
-            <o class="fas fa-caret-right"></o>
-            Türkmenistan<br>
-            <o class="fas fa-caret-right"></o>
-            Özbekistan<br>
-            <o class="fas fa-caret-right"></o>
-            İran<br>
-            <o class="fas fa-caret-right"></o>
-            Afghanistan<br>
-            <o class="fas fa-caret-right"></o>
-            Azerbaycan<br>
-            <br>
-            
-  header_8: Çalışma izni İçin Almak İçin Karşılanması Gereken Şartlar Nelerdir?
-  text_8: >-
-            <o class="fas fa-caret-right"></o>
-             Çalışmak için çalışma izni başvurusunda bulunulan iş yerinin ödenmiş olan sermayesi en az 100.000 TL olmalıdır.
-             Ayrıca bu iş yerinin brüt satış tutarı 800.000 TL ya da şirketin bir önceki yılın ihracat tutarı 250.000 Amerikan Doları olmalıdır.
-            <br><br>
-            <o class="fas fa-caret-right"></o>
-             Yabancı işçinin çalışmak istediği iş yerindeki çalışanlardan en az beşi Türkiye Cumhuriyeti vatandaşı olmalıdır.
-             Yabancı işçinin şirket ortağı olması durumunda ise verilen çalışma izni süresinin son 6 ayındaki süreç içerisinde iş yerinde en az 5 Türkiye Cumhuriyeti vatandaşı işçinin çalışması şartı aranır. Genel olarak ise, her 5 Türk vatandaşı çalışana karşılık 1 yabancı çalışan olması gerekir.
-            <br><br>
-            <o class="fas fa-caret-right"></o>
-             Ev işlerinde çalıştırmak üzere (hasta-yaşlı-çocuk bakıcılığı) yapılan başvurularda ilk iki şart aranmaz.
-            <br><br>
-            <o class="fas fa-caret-right"></o>
-             Şirketin turizm ve seyahat şirketi olması durumunda 2 numaralı şart aranmaz.
-            <br><br>
-            <o class="fas fa-caret-right"></o>
-             Çalışma izni şirket ortağı adına alınacak ise, almak isteyen şirket ortağı olan yabancının ise sermaye payının en az %20’sine sahip olması gerekmektedir. 
-             Sermaye payının değeri de 40.000 TL’nin üstünde olmalıdır.
-            <br><br>
-            <o class="fas fa-caret-right"></o>
-             İş yerinin yabancı çalışana ödemesi gereken maaş, yabancı çalışanın görevi ve yapacağı işle orantılı olmalıdır ve asgari ücretten fazla olmalıdır. 
-            <br><br>
+  header_1: İĞNELİ EPİLASYON
+  btn_1:    Bizimle İletişime Geç
+  text_1: >-
+            İğneli epilasyon, kıl kökünü doğrudan hedef alarak tüylerin kalıcı olarak yok edilmesini sağlayan, FDA onaylı ve tüm kıl tiplerinde etkili olan tek epilasyon yöntemidir. Açık renkli, ince veya kalın fark etmeksizin tüm tüylerde güvenle uygulanabilir ve bu özelliğiyle lazer epilasyona alternatif değil, tamamlayıcı bir çözümdür.<br>
+            Uygulama sırasında her bir kıl köküne steril, tek kullanımlık mikro iğnelerle girilerek kök elektrik akımı ile tahrip edilir. Böylece kıl üretim merkezi kalıcı olarak devre dışı bırakılır. İşlem kişiye ve bölgeye göre seanslar halinde planlanır. Uygulama öncesi cilt analiziniz yapılır, işlem sonrası ise cilt yatıştırıcı ve koruyucu ürünlerle desteklenir.<br>
+            İğneli epilasyonun avantajları:<br>
+            •	Kıl kökünü kalıcı olarak yok eder.<br>
+            •	Tüm kıl renkleri ve cilt tiplerinde etkilidir.<br>
+            •	Lazerin etkisiz kaldığı beyaz, sarı ve ince tüylerde güvenle uygulanır.<br>
+            •	Lokal ve kontrollü bir uygulamadır.<br>
+            •	Hormonal tüylenmelerde destekleyici çözümdür.<br>
+            •	Küçük alanlar için en etkili yöntemdir (çene, bıyık, kaş arası, benler çevresi vb.).<br>
+            Yüz ve vücudun tüm bölgelerine, hijyen kurallarına uygun şekilde uzman uygulayıcılar tarafından yapılan iğneli epilasyon sayesinde istenmeyen tüylerden kalıcı olarak kurtulabilir, pürüzsüz bir cilde güvenle sahip olabilirsiniz.<br>
+  header_2: İğneli Epilasyon – Sık Sorulan Sorular (SSS)
+  text_2: >-
+            İğneli epilasyon kalıcı mı?<br>
+            Evet. İğneli epilasyon, kıl kökünü doğrudan tahrip ettiği için kalıcı sonuç veren tek epilasyon yöntemidir. Uygulama doğru şekilde yapıldığında yok edilen kıl tekrar çıkmaz.<br>
+            ________________________________________<br>
+            İğneli epilasyon kimlere uygulanabilir?<br>
+            Tüm cilt tiplerine ve tüm kıl renklerine (beyaz, sarı, kızıl, ince-kalın) güvenle uygulanabilir. Lazer epilasyonun etkisiz olduğu tüylerde özellikle tercih edilir.<br>
+            ________________________________________<br>
+            Hangi bölgelere uygulanır?<br>
+            Yüz (bıyık, çene, kaş arası, favori), boyun, koltuk altı, bikini, karın, göğüs, sırt ve ben çevresi dahil olmak üzere vücudun tüm bölgelerine uygulanabilir.<br>
+            ________________________________________<br>
+            Seans sayısı neye göre değişir?<br>
+            Seans sayısı; kıl yoğunluğu, kıl yapısı, hormonal durum ve uygulanan bölgeye göre kişiden kişiye değişir. Kıllar tek tek yok edildiği için işlem seanslar halinde ve kontrollü şekilde ilerler.<br>
+            ________________________________________<br>
+            İğneli epilasyon acı verir mi?
+            Uygulama sırasında hafif bir batma veya sıcaklık hissi oluşabilir. Acı eşiğine göre his kişiden kişiye değişir. Gerekli durumlarda lokal uyuşturucu kremlerle konfor artırılabilir.<br>
+            ________________________________________<br>
+            İşlem sonrası iz kalır mı?<br>
+            Uzman kişiler tarafından doğru teknikle yapıldığında kalıcı iz bırakmaz. İşlem sonrası oluşabilecek hafif kızarıklık ve kabuklanmalar kısa sürede kendiliğinden geçer.<br>
+            ________________________________________
+            İğneli epilasyon lazer epilasyondan farkı nedir?<br>
+            Lazer epilasyon kılın içindeki melanin pigmentini hedef alır ve açık renkli tüylerde etkili değildir. İğneli epilasyon ise kıl kökünü direkt yok ettiği için tüm tüylerde etkilidir ve kalıcıdır.<br>
+            ________________________________________<br>
+            İşlem sonrası nelere dikkat edilmelidir?<br>
+            •	İlk 24 saat suyla temas edilmemelidir.<br>
+            •	Güneş, solaryum ve sıcak ortamlardan kaçınılmalıdır.<br>
+            •	Kabuklar koparılmamalıdır.<br>
+            •	Uzmanın önerdiği yatıştırıcı ürünler düzenli kullanılmalıdır.<br>
+            ________________________________________<br>
+            İğneli epilasyon hormonları etkiler mi?<br>
+            Hayır. İğneli epilasyon yalnızca kıl kökü üzerinde etkilidir, hormonları etkilemez. Ancak hormonal tüylenmelerde destekleyici ve kalıcı çözüm sunar.<br>
+            ________________________________________<br>
+            Hamilelikte iğneli epilasyon yapılır mı?<br>
+            Hamileliğin özellikle ilk dönemlerinde önerilmez. Mutlaka doktor onayı ve uzman değerlendirmesi gereklidir.<br>
+            ________________________________________<br>
+            Sonuçlar ne zaman görülür?<br>
+            İşlem yapılan kıl kökü anında yok edilir. Tam sonuç ise tüm kıl döngüleri tamamlandığında, seanslar ilerledikçe net olarak görülür.<br>
 
 #service 5 Content
 service_5:
-  btn:        Vize İşlemlerinde Danışmanlığımızın hizmetlerinden yararlanmak İçin Bizimle İletişime Geç
-  header_1:   Yurtdışı Vize Çeşitleri
-  ar_opt_1:   Avrupa Vizesi
-  ar_text_1:  Avrupa ülkelerine gitmek için gerekli vizedir.
-  ar_opt_2:   Asya Vizesi
-  ar_text_2:  Asya ülkelerine gitmek için gerekli vizedir.
-  header_2:   Türkiye Vize Çeşitleri
-  opt_1:      Çalışma Vizesi
-  text_1:     Türkiye'ye çalışma amacıyla gelen yabancılara verilen vizedir.
-  opt_2:      Turizm Vizesi
-  text_2:     Türkiye’ye turistik amaçlarla gelmek isteyen yabancılara verilen vizedir.
-  opt_3:      Eğitim Vizesi
-  text_3:     Türkiye’ye eğitimsel amaçlarla gelmek isteyen yabancılara verilen vizedir.
-  opt_4:      Transit Vize
-  text_4:     Türkiye'den geçiş yapmak isteyenlere verilen vizedir.
-  opt_5:      Havalimanı Transit Vizesi
-  text_5:     Türk havalimanlarından aktarma yapmak isteyenlere gereken kısa süreli vizedir.
-  opt_6:      Resmi Görev Vizesi
-  text_6:     Resmi göreve atanan yabancılara verilen vizedir.
+  btn_1:      Bizimle İletişime Geç
+  header_1:   PROFESYONEL makyaj
+  text_1: >-
+              Profesyonel makyaj, yüz hatlarınızı en doğru şekilde ortaya çıkaran, cilt tonunuza ve tarzınıza uygun olarak uzman eller tarafından uygulanan özel bir güzellik hizmetidir. Özel günlerinizde, davetlerde, düğün, nişan, söz, mezuniyet, fotoğraf çekimi ve sahne makyajlarında kalıcı, kusursuz ve doğal bir görünüm elde etmenizi sağlar.<br>
+              Uygulama öncesinde cilt yapınız, yüz hatlarınız ve beklentileriniz detaylı olarak analiz edilir. Size en uygun renk paleti ve teknik belirlenerek, yüzünüzün doğal güzelliğini ön plana çıkaran, abartıdan uzak ve uzun süre kalıcılığını koruyan bir makyaj uygulaması gerçekleştirilir. Profesyonel ürünler sayesinde gün boyu akma, dağılma ve parlama yapmadan tazeliğini korur.<br>
+              Profesyonel makyajın avantajları:<br>
+              •	Cilt tonunu eşitler, kusurları doğal şekilde kapatır.<br>
+              •	Yüz hatlarını dengeler ve belirginleştirir.<br>
+              •	Uzun süre kalıcılık sağlar.<br>
+              •	Fotoğraf ve ışık altında kusursuz görünüm sunar.<br>
+              •	Kişiye özel tarz ve uygulama imkânı verir.<br>
+              Uzman makyaj sanatçılarımızın kaliteli ürünler ve doğru tekniklerle uyguladığı profesyonel makyaj hizmetimizle, en özel anlarınızda kendinizi her zamankinden daha güzel ve özgüvenli hissedin.<br>
 
 #service 6 Content
 service_6:
-  header_1:   Yabancı Sağlık Sigortası
-  btn_1:      Danışmanlığımızın hizmetlerinden yararlanmak İçin Tıkla ve Bizimle İletişime Geç
-  header_2:   Neden Almalıyım?
-  text_2:     Türkiye'de kalmak isteyen yabancıların ikamet izni çıkartabilmeleri için zorunlu olarak bir özel sağlık sigortasına ihtiyaçları vardır.
-  header_3:   Yararları
-  text_3: >-
-              <o class="fas fa-caret-right"></o> Sigorta alınmadan önce var olan kronik hastalıklar dışındaki bütün hastalıkların tedavisi genel sağlık sigortası tarafından karşılanır.<br>
-              <o class="fas fa-caret-right"></o> Anlaşmalı olan özel hastanelerden indirimli bir şekilde yararlanılabilir.
-  header_4:   Yabancı Sağlık Sigortası İçin Neden Bir Danışmana İhtiyacım Var?
-  text_4: >-
-              Bu ve bu tarzdaki işlemler büyük hassasiyet ister ve yapılan küçük bir hatada işlemlerde aksama yaşanmasına sebep olur, 
-              işlemlerin aksaması Türkiye'de kalmanızı geciktirebilir hatta Türkiye'de kalmanıza engel olabilir.
+  header_1:   KLASİK CİLT BAKIMI
+  btn_1:      Bizimle İletişime Geç
+  text_1: >-
+              Klasik cilt bakımı, cildin temel ihtiyaçlarını karşılayan, sağlıklı, canlı ve dengeli bir görünüm kazandırmayı hedefleyen en kapsamlı ve güvenli bakım uygulamasıdır. Cilt yüzeyinde biriken kir, yağ, makyaj kalıntıları ve ölü deriler arındırılarak cildin nefes alması sağlanır.<br>
+              Uygulama öncesinde cilt analizi yapılarak cilt tipi (yağlı, kuru, karma, hassas) belirlenir. Ardından cilt yapısına uygun ürünlerle derinlemesine temizlik, peeling, buhar, siyah nokta ve komedon temizliği uygulanır. Maske, serum ve nemlendirme adımlarıyla cilt yatıştırılır ve bakım tamamlanır. Tüm işlemler hijyenik ortamda, profesyonel ürünler kullanılarak gerçekleştirilir.<br>
+              Klasik cilt bakımının faydaları:<br>
+              •	Gözenekleri derinlemesine temizler.<br>
+              •	Siyah nokta ve yağ bezelerini azaltır.<br>
+              •	Cilt tonunu dengeler ve aydınlık görünüm kazandırır.<br>
+              •	Nem dengesini düzenler.<br>
+              •	Akne oluşumunu önlemeye yardımcı olur.<br>
+              •	Cilde taze, sağlıklı ve canlı bir görünüm kazandırır.<br>
+              Düzenli olarak uygulanan klasik cilt bakımı, cildin kendini yenileme sürecini destekler, yaşlanma belirtilerini geciktirir ve cildin daha pürüzsüz, parlak ve bakımlı görünmesini sağlar.<br>
+
+  header_2:   Klasik Cilt Bakımı – Sık Sorulan Sorular (SSS)
+  text_2: >-  
+              Klasik cilt bakımı nedir?<br>
+              Klasik cilt bakımı, cildin derinlemesine temizlenmesi, gözeneklerin arındırılması, nem dengesinin sağlanması ve cildin yenilenmesi amacıyla uygulanan temel ve en etkili bakım yöntemidir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı kimlere uygundur?<br>
+              Kuru, yağlı, karma ve hassas dahil olmak üzere tüm cilt tipleri için uygundur. Uygulama öncesinde yapılan cilt analizi ile bakım içeriği kişiye özel olarak belirlenir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı ne kadar sürer?<br>
+              Seans süresi ortalama 60–90 dakika arasında değişir. Cilt tipi ve yapılacak işlemlere göre süre uzayıp kısalabilir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı ne sıklıkla yapılmalıdır?<br>
+              Cilt tipine göre genellikle ayda 1 kez düzenli olarak yapılması önerilir. Yoğun siyah nokta ve akne problemi olan ciltlerde ilk dönemde aralıklar kısaltılabilir.<br>
+              ________________________________________<br>
+              İşlem sırasında acı hissedilir mi?<br>
+              Temizlik ve siyah nokta aşamasında hafif bir baskı hissedilebilir ancak genellikle ağrılı bir işlem değildir. Hassas ciltlerde uygulama nazik şekilde yapılır.<br>
+              ________________________________________<br>
+              Klasik cilt bakımının cilde faydaları nelerdir?<br>
+              •	Gözenekleri temizler<br>
+              •	Siyah nokta ve yağ bezelerini azaltır<br>
+              •	Cildi aydınlatır<br>
+              •	Nem dengesini düzenler<br>
+              •	Akne oluşumunu önlemeye yardımcı olur<br>
+              •	Cildi pürüzsüz ve canlı gösterir<br>
+              ________________________________________<br>
+              İşlem sonrası ciltte kızarıklık olur mu?<br>
+              Hassas ciltlerde kısa süreli hafif kızarıklık görülebilir. Genellikle birkaç saat içinde kendiliğinden geçer.<br>
+              ________________________________________<br>
+              İşlem sonrası makyaj yapılabilir mi?<br>
+              Cildin dinlenmesi açısından işlem sonrası en az 12–24 saat makyaj yapılmaması önerilir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı sivilceye neden olur mu?<br>
+              Hayır, doğru şekilde ve hijyenik koşullarda uygulandığında sivilceye neden olmaz. Aksine düzenli bakım akne oluşumunu azaltır.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı lekelere iyi gelir mi?<br>
+              Düzenli bakım cilt tonunun eşitlenmesine yardımcı olur ve leke görünümünü zamanla hafifletebilir. Ancak ileri düzey lekelerde destekleyici işlemler gerekebilir.<br>
+              ________________________________________<br>
+              Hamilelikte klasik cilt bakımı yapılır mı?<br>
+              Hamilelikte genellikle temel ve kimyasal içermeyen ürünlerle klasik cilt bakımı yapılabilir. Uygulama öncesinde mutlaka bilgi verilmesi önemlidir.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İlk 24 saat güneşe çıkılmamalıdır.<br>
+              •	Solaryum ve sıcak ortamlar (sauna, hamam) önerilmez.<br>
+              •	Cilt nemlendirilmeli ve güneş koruyucu kullanılmalıdır.<br>
+              •	Cilde sert peeling ve asit içerikli ürünler uygulanmamalıdır.<br>
 
 #service 7 Content
 service_7:
@@ -466,7 +343,7 @@ countdown:
             <div class="counter">101</div><p>bin</p>
             <p>Kişinin Henüz İkamet İznine Sahip olmadığını Gösterir</p>
   column_4: >-
-            <p>EuroPermit Olarak</p>
+            <p>WoaBeauty Olarak</p>
             <p>İşte Biz Burda Devreye Giriyoruz!</p>
             <p>Ülkemizde yaşamak isteyen yabancıların işlemlerinin pürüzsüz halledilmesi İçin en iyi şekilde hizmet veriyoruz</p>
 
@@ -484,7 +361,7 @@ footer:
   header_3: Bize mail gönderin
   header_4: Bizi Takip Edin
   header_5: İşe Yarar Bağlantılar
-  copyright_text: Copyright &copy; 2019 <a href="/">EuroPermit
+  copyright_text: Copyright &copy; 2019 <a href="/">WoaBeauty
 
 #404 Content
 page_404:

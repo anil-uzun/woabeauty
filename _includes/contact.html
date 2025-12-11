@@ -1,68 +1,13 @@
-<div class="col-xl-12 col-md-12 mb-15">
-    <div class="accordion-box">
-        <div class="accordion-item">
-            <input type="checkbox" class="jumptarget" checked onclick='window.location.assign("#tab1")' id="tab1"/>
-            <label for="tab1" class="accordion-title mt-0 text-center"><b>{% translate contact.hours %}</b></label>
-            <div class="accordion-content col-xl-4 col-md-4 mb-15" style="margin: auto; width: 30ch;" id="con1">
-                <table class="mt-2 mb-2">
-                    <colgroup>
-                    <col width="50%" />
-                    <col width="40%"/>
-                    </colgroup>
-                    <thead>
-                    <tr class="header">
-                    <th class="ml-2">{% translate time.day %}</th>
-                    <th class="ml-2">{% translate time.hour %}</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                    <td markdown="span">{% translate time.day_0 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    <tr>
-                    <td markdown="span">{% translate time.day_1 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    <tr>
-                    <td markdown="span">{% translate time.day_2 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    <tr>
-                    <td markdown="span">{% translate time.day_3 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    <tr>
-                    <td markdown="span">{% translate time.day_4 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    <tr>
-                    <td markdown="span">{% translate time.day_5 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    <tr>
-                    <td markdown="span">{% translate time.day_6 %}</td>
-                    <td markdown="span">09.00 - 18.00</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="text-center">
-                <p id="work_message"></p>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="col-xl-4 col-md-4 text-center text-md-left mb-15">
     <div class="contact-person">
         <h4>{% translate contact.phone %}</h4>
         <p>{% translate contact.text_2 %}</p>
         <b><a href="tel:05324566614"><span><i class="fas fa-phone"></i>{{ site.phone_number }}</span></a></b>
         {% if site.lang == "tr" %}
-        <b><a href="https://api.whatsapp.com/send?phone=905324566614&text=Merhaba EuroPermit aracılığı ile size ulaşıyorum."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
+        <b><a href="https://api.whatsapp.com/send?phone=905324566614&text=Merhaba WoaBeauty aracılığı ile size ulaşıyorum."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
         {% endif %}
         {% if site.lang == "en" %}
-        <b><a href="https://api.whatsapp.com/send?phone=905324566614&text=Hello i am contacting you via EuroPermit's website."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
+        <b><a href="https://api.whatsapp.com/send?phone=905324566614&text=Hello i am contacting you via WoaBeauty's website."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
         {% endif %}
     </div>
 </div>
@@ -70,7 +15,7 @@
     <div class="contact-person">
         <h4>{% translate contact.adress %}</h4>
         <p>{% translate contact.text_1 %}</p>
-        <b><a href="https://goo.gl/maps/CwkyW2HxnkuU5Ziy6"><span><i class="fas fa-map-marker-alt"></i>{% translate global.adress %}</span></a></b>
+        <b><a href="https://maps.app.goo.gl/ogZ4Q4fcQP3HK2BS8"><span><i class="fas fa-map-marker-alt"></i>{% translate global.adress %}</span></a></b>
     </div>
 </div>
 <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">

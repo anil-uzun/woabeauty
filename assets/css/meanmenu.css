@@ -167,6 +167,6 @@ a.meanmenu-reveal {
 	border: 1px solid #fff;
 }
 .transparent-bg .mean-container a.meanmenu-reveal span {
-	background: #fff;
+	background: var(--dark-background);
 }
 .mean-container .mean-nav ul li a i{display:none;}

@@ -1,7 +1,7 @@
 <section class="slider-area">
     {% include header_top.html %}
     <div class="slider-active">
-        <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{site.baseurl}}/assets/img/slider/slider1.jpg)">
+        <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{site.baseurl}}/assets/img/slider/background.svg)">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
@@ -12,24 +12,6 @@
                             {% endif %}
                             {% if site.lang == "tr" %}
                                 <a href="sayfalar/hizmetler" class="btn" data-animation="fadeInUp" data-delay=".6s">{% translate slider.btn_1 %}</a>
-                            {% endif %}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{site.baseurl}}/assets/img/slider/slider2.jpg)">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="slider-content">
-                            <h1 data-animation="fadeInUp" data-delay=".2s">{% translate slider.title_2 %}</h1>
-                            <p data-animation="fadeInLeft" data-delay=".4s">{% translate slider.text_2 %}</p>
-                            {% if site.lang == "en" %}
-                                <a href="pages/social-media" class="btn" data-animation="fadeInUp" data-delay=".6s">{% translate slider.btn_2 %}</a>
-                            {% endif %}
-                            {% if site.lang == "tr" %}
-                                <a href="sayfalar/sosyal-medya" class="btn" data-animation="fadeInUp" data-delay=".6s">{% translate slider.btn_2 %}</a>
                             {% endif %}
                         </div>
                     </div>

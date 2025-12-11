@@ -652,14 +652,14 @@
 
 /* Background Color */
 
-.grey-bg {
-	background: #F8F9FA;
+.default-dark-bg {
+	background: var(--dark-background);
 }
-.white-bg {
-	background: #fff !important;
+.default-bg {
+	background: white !important;
 }
 .black-bg {
-	background: #222;
+	background: #222; 
 }
 .theme-bg {
 	background: #ff5e14;

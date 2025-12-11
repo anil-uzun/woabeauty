@@ -19,13 +19,3 @@
     url: https://tiktok.com/@starpermit
 - text: İletişim
   url: /sayfalar/iletisim
-- text: <i class="icofont-earth" style="font-size:20px; display:inline-block"></i>
-  url: ""
-  submenu:
-  - text: <o><b>Türkçe 🇹🇷</b></o>
-    lang: tr
-    checked: true
-  - text: <l>English 🇬🇧</l>
-    lang: en
-  - text: <l>Azərbaycanca 🇦🇿</l>
-    lang: az

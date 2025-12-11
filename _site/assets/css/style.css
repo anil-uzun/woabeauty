@@ -93,7 +93,7 @@ hg3,
 hg4,
 hg5,
 hg6 {
-	font-family: 'Poppins', sans-serif;
+	font-family: "Times New Roman", Times, serif;
 	font-weight: normal;
 	color: #2f2f2f;
 	margin-top: 0px;
@@ -107,7 +107,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Poppins', sans-serif;
+	font-family: "Times New Roman", Times, serif;
 	font-weight: normal;
 	color: #000;
 	margin-top: 0px;
@@ -350,7 +350,7 @@ label {
 }
 /* menu-area */
 .menu-area {
-	background: #fff;
+	background: var(--dark-background);
 }
 .second-menu-area {
 	margin-bottom: -94px;
@@ -386,7 +386,8 @@ label {
 	margin-left: 0px;
 }
 .main-menu ul li a {
-	color: var(--theme_dark);
+	color: var(--theme_s-light);
+	background-color: rgba(0, 0, 0, .25);
 	font-size: 15px;
 	padding: 35px 15px;
 	display: block;
@@ -411,7 +412,7 @@ label {
 	position: absolute;
 	top: 110%;
 	left: 0;
-	background: #fff;
+	background: var(--theme_background-color);
 	z-index: 99;
 	width: 200px;
 	opacity: 0;
@@ -495,7 +496,7 @@ label {
 	transition: .3s;
 }
 .menu-icon.second-menu-icon .menu-tigger span {
-	background: #fff;
+	background: var(--dark-background);
 }
 .menu-icon .menu-tigger span:last-child{
 	margin: 0;
@@ -524,13 +525,13 @@ label {
 	z-index: 9999;
 	-webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.5);
 }
 .sticky .logo-area {
 	display: none;
 }
 .transparent-bg.sticky {
-	background: #111;
+	background: rgba(0, 0, 0, .7);
 }
 /* search modal */
 .menu-tigger {
@@ -554,7 +555,7 @@ label {
 	color: #fff;
 }
 .transparent-menu .menu-tigger span {
-	background: #fff;
+	background: var(--dark-background);
 }
 .transparent-menu .menu-tigger:hover span {
 	background: var(--theme_s-light);
@@ -811,7 +812,7 @@ label {
 	padding: 0;
 	height: 6px;
 	width: 200px;
-	background: #fff;
+	background: var(--dark-background);
 }
 .slider-active .slick-dots li.slick-active button{
 	background: var(--theme_s-light);
@@ -902,7 +903,7 @@ label {
 }
 .home-three-about {
 	margin-top: -150px;
-	background: #fff;
+	background: var(--dark-background);
 	position: relative;
 	padding-top: 15px;
 }
@@ -1346,7 +1347,7 @@ label {
 	width: 100%;
 }
 .team-info {
-	background: #fff;
+	background: var(--dark-background);
 	position: absolute;
 	bottom: -75px;
 	width: 90%;
@@ -1606,7 +1607,7 @@ label {
 
 /* 14. Blog */
 .blog-wrapper {
-	background: #fff;
+	background: var(--dark-background);
 	overflow: hidden;
 	padding: 20px;
 }
@@ -1685,7 +1686,7 @@ label {
 }
 /* sidebar */
 .widget {
-	background: #fff;
+	background: var(--dark-background);
 	overflow: hidden;
 	padding: 10px;
 }

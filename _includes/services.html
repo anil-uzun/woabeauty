@@ -22,27 +22,30 @@
             {% else %}
                 {% assign a = "/" + site.lang %}
             {% endif %}
-            {% capture b %}
-                {% translate titles.services %}
-            {% endcapture %}
+            {% for service in site.services %}
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50 grid-item">
                 <div class="services-box">
                     <div class="services-img">
-                    <a href="{{a}}/{{b}}/turkiye-vatandasligi">
-                        <img src="{{site.baseurl}}/assets/img/service/1.jpg" class="img-fluid" alt="">
+                    <a href="{{site.url}}{{a}}/{{service.permalink}}">
+                        <img src="{{site.baseurl}}/assets/img/service/{{service.number}}.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="services-content">
                         <div class="card-title">
-                            <h5>{% translate services.service_1 %}</h5>
+                            {% assign title_key = "title_" | append: site.lang %}
+                            <h5>{{ service[title_key] }}</h5>
                         </div>
-                        <div classZ="card-text">
-                            <p>{% translate services.text_1 %}</p>
-                        </div>
+                        <!-- <div classZ="card-text">
+                            {% assign n = service.number %}
+                            {% assign key = "services.text_" | append: n %}
+                            <p>{% t key %}</p>
+                        </div> -->
                     </a>
-                        <a href="{{ a }}/{{% translate titles.services %}}/turkiye-vatandasligi" class="btn">{% translate global.continue %}</a>
+                        <a href="{{a}}/{{b}}/{{service.permalink}}" class="btn">{% translate global.continue %}</a>
                     </div>
                 </div>
             </div>
+            {% endfor %}
+            <!-- 
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50 grid-item izin">
                 <div class="services-box">
                     <div class="services-img">
@@ -150,11 +153,11 @@
                         <a href="{{a}}/{{% translate titles.services %}}/saglik-sigortasi" class="btn">{% translate global.continue %}</a>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
-<!--<section class="service-area grey-bg pb-70 pt-100">
+<!--<section class="service-area default-dark-bg pb-70 pt-100">
     <div class="container">
         <div class="row">
             <div class="col-xl-12 text-center mb-40">

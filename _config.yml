@@ -1,39 +1,20 @@
-title_tr: "EuroPermit - Türkiye Yabancı Danışmanlık Hizmeti"
-title_en: "EuroPermit - Turkey Foreigner Consulting Service"
-email: "support@euro-permit.com"
-phone_number: "0532 456 66 14"
-whatsapp: "0532 456 66 14"
+title_tr: "WoaBeauty - Kamer Yüzer Güzellik Evi"
+title_en: "WoaBeauty - Kamer Yüzer House of Beauty"
+email: "kameryuzer@gmail.com"
+phone_number: "+90 545 122 96 56"
+whatsapp: "+90 545 122 96 56"
 description_tr: >
-  EuroPermit 
-  - Yakalanan Yabancılara Avukatlık Hizmeti
-   - Türkiye Yabancı Danışmanlık Hizmeti
-    - Türkiye İkamet İzni
-     - Türkiye Oturma İzni
-      - Çalışma İzni
-       - Türkiye Vizesi
-        - Yabancı Sağlık Sigortası
-description_az: >
-  EuroPermit - Tutulan Əcnəbilərə Hüquqi Xidmət
-  - Türkiyədə Əcnəbi Məsləhət Xidməti
-    - Türkiyədə Yaşayış İcazəsi
-      - Türkiyədə Oturma İcazəsi
-        - İş İcazəsi
-          - Türkiyə Vizası
-            - Əcnəbi Sağlamlıq Sığortası
+  WoaBeauty 
+  - Kamer Yüzer Güzellik Evi
 description_en: >-
-  EuroPermit 
-  - Advocacy Service to Caught Foreigners
-   - Turkey Foreigner Consulting Service
-    - Turkey Residence Permit
-     - Turkey Work Permit
-      - Turkey Visa
-       - Turkey Foreigner Health Insurance
+  WoaBeauty 
+  - Kamer Yüzer House of Beauty
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.euro-permit.com" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_url: https://www.facebook.com/yildizglobal/
-twitter_url: https://twitter.com/yildizglobal/
-tiktok_url: https://www.tiktok.com/@starpermit/
-instagram_url: https://www.instagram.com/euro.permit/
+url: "https://www.kameryuzer.com" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_url: https://www.facebook.com/
+twitter_url: https://twitter.com/
+tiktok_url: https://www.tiktok.com/
+instagram_url: https://www.instagram.com/WoaBeautyLevent
 logo: "/assets/img/logo/logo.png"
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 mailchimp_input_name: "b_307862c135e4548eecf86f389_342411fb35"
@@ -62,7 +43,7 @@ collections:
     output: true
 
 # jekyll-multiple-languages-plugin settings:
-languages: ["tr", "en", "az"]
+languages: ["tr"]
 exclude_from_localizations: ["images"]
 
 tag_page_layout: tag_page
