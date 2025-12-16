@@ -15,9 +15,7 @@ image: /assets/img/services/01.jpg
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <div id="Neden Bir Türk Vatandaşı Olmak İsteyeyim?" class="jumptarget">
-            <div id="Why would i want to become a Turkish Citizen?" class="jumptarget">
-                <h3>{% translate service_1.header_1 %}</h3>
+            <h3>{% translate service_1.header_1 %}</h3>
             <div class="contact-person">
                 {% if site.lang == "tr" %}
                 <b><a href="/sayfalar/iletisim"><span><i class="fas fa-phone"></i>{% translate service_1.btn_1 %}</span></a></b><p></p>
@@ -27,8 +25,6 @@ image: /assets/img/services/01.jpg
                 {% endif %}
             </div>
             {% translate service_1.text_1 %}
-            </div>
-            </div>
         </div>
     </div>
 </div>

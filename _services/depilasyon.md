@@ -16,8 +16,6 @@ image: /assets/img/services/03.jpg
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <div id="Deport Kararı Nedir?" class="jumptarget">
-            <div id="What is deportation?" class="jumptarget">
             <h2>{% translate service_3.header_1 %}</h2>
             <div class="contact-person">
                 {% if site.lang == "tr" %}
@@ -29,8 +27,6 @@ image: /assets/img/services/03.jpg
             </div>
             {% translate service_3.text_1 %}
             <br><br>
-            </div>
-            </div>
         </div>
     </div>
 </div>
