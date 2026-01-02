@@ -1,19 +1,9 @@
 <section class="slider-area">
-    {% include header_top.html %}
     <div class="slider-active">
-        <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{site.baseurl}}/assets/img/slider/background.svg)">
+        <div class="single-slider slider-bg d-flex align-items-center" style="background-image:url({{site.baseurl}}/assets/img/slider/slider.jpg); box-shadow: inset 0px -38px 15px -17px #d4d4d4;">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
-                        <div class="slider-content">
-                            <h1 data-animation="fadeInDown" data-delay=".2s">{% translate slider.title_1 %}</h1>
-                            {% if site.lang == "en" %}
-                                <a href="pages/services" class="btn" data-animation="fadeInUp" data-delay=".6s">{% translate slider.btn_1 %}</a>
-                            {% endif %}
-                            {% if site.lang == "tr" %}
-                                <a href="sayfalar/hizmetler" class="btn" data-animation="fadeInUp" data-delay=".6s">{% translate slider.btn_1 %}</a>
-                            {% endif %}
-                        </div>
                     </div>
                 </div>
             </div>

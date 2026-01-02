@@ -527,7 +527,7 @@ label {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.5);
 }
-.sticky .logo-area {
+.sticky .logo img {
 	display: none;
 }
 .transparent-bg.sticky {
@@ -710,11 +710,11 @@ label {
 }
 /* 3. Slider */
 .slider-area {
-	height:600px;
+	height:300px;
 	position: relative;
 }
 .slider-bg {
-	height: 600px;
+	height: 300px;
 	background-size: cover;
 	background-position: center center;
 	position: relative;
@@ -725,7 +725,7 @@ label {
 	width: 100%;
 	height: 100%;
 	background: #000;
-	opacity: .6;
+	opacity: 0;
 }
 .slider-two-bg{
 	height: 810px;

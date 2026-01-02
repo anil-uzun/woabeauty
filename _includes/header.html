@@ -1,29 +1,16 @@
 <header>
     <div id="sticky-header" class="menu-area transparent-bg">
-        <div class="container">
+        <div class="container mt-60">
             <div class="row align-items-center">
                 <invis id="site.lang">{{site.lang}}</invis>
                 <div class="col-xl-2 col-lg-2 col-md-3 col-sm-5">
                     <div class="logo">
-                        {% if site.lang == "tr" %}
-                        <a href="{{site.baseurl}}"><img style="height: 120px; aspect-ratio: 1;" src="{{site.baseurl}}/{{site.logo}}" class="img-fluid" alt="{{site.title}}"></a>
-                        {% else %}
-                        <a href="{{site.url}}/{{site.lang}}"><img src="{{site.baseurl}}/{{site.logo}}" class="img-fluid" alt="{{site.title}}"></a>
-                        {% endif %}
+                        <a href="{{site.baseurl}}"><img style="height: 180px; aspect-ratio: 1;" src="{{site.baseurl}}/{{site.logo}}" class="img-fluid" alt="{{site.title}}"></a>
                     </div>
                 </div>
                 <div class="col-xl-9 col-lg-9 text-right">
                     <div class="main-menu">
                         {% include navigation.html %}
-                    </div>
-                </div>
-                <div class="col-xl-1 col-lg-1 d-none d-lg-block">
-                    <div class="menu-icon">
-                        <i class="main-menu"><i class="icofont-search-2" data-toggle="modal" data-target="#search-modal"></i></i>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </a>
                     </div>
                 </div>
                 <div class="col-12">
