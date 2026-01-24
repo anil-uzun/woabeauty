@@ -7,7 +7,8 @@
             {% else %}
                 {% assign a = "/" + site.lang %}
             {% endif %}
-            {% for service in site.services %}
+            {% assign sorted_services = site.services | sort: "number" %}
+            {% for service in sorted_services %}
             <a href="{{site.baseurl}}{{a}}/{{service.permalink}}">
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50 grid-item">
                 <div class="services-box">

@@ -1,14 +1,13 @@
 ---
 layout: featured
+title_tr: Klasik Cilt Bakımı
 
-title_tr: Altın Oran Kaş Tasarımı
-
-permalink: hizmetler/altin-oran-kas-tasarimi
+permalink: hizmetler/klasik-cilt-bakimi
 
 number: 1
-type: yüz
+
 categories: [service]
-icon: /assets/img/icons/address-card-solid.svg
+icon: /assets/img/icons/ambulance-solid.svg
 image: /assets/img/services/01.jpg
 ---
 
@@ -26,5 +25,8 @@ image: /assets/img/services/01.jpg
             </div>
             {% translate service_1.text_1 %}
         </div>
+        <h4>{% translate service_1.header_2 %}</h4>
+        {% translate service_1.text_2 %}
+        <p></p>
     </div>
 </div>

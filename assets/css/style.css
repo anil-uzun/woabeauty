@@ -28,6 +28,21 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700');
 html {
     scroll-behavior: smooth !important;
+	--s: 150px; /* control the size*/
+	--c1: var(--dark-background);
+	--c2: #8a429c03;
+	
+	--_g: 
+		var(--c1) 0%  5% ,var(--c2) 6%  15%,var(--c1) 16% 25%,var(--c2) 26% 35%,var(--c1) 36% 45%,
+		var(--c2) 46% 55%,var(--c1) 56% 65%,var(--c2) 66% 75%,var(--c1) 76% 85%,var(--c2) 86% 95%,
+		#0000 96%;
+	background:
+		radial-gradient(50% 50% at 100% 0,var(--_g)),
+		radial-gradient(50% 50% at 0 100%,var(--_g)),
+		radial-gradient(50% 50%,var(--_g)),
+		radial-gradient(50% 50%,var(--_g)) calc(var(--s)/2) calc(var(--s)/2)
+		var(--c1);
+	background-size: var(--s) var(--s);
 }
  body {
 	font-family: 'Open Sans', sans-serif;
@@ -412,7 +427,7 @@ label {
 	position: absolute;
 	top: 110%;
 	left: 0;
-	background: var(--theme_background-color);
+	background: var(--dark-background);
 	z-index: 99;
 	width: 200px;
 	opacity: 0;
@@ -517,7 +532,7 @@ label {
 }
 .sticky {
 	left: 0;
-	margin: auto;
+	margin-top: auto;
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -527,8 +542,8 @@ label {
 	animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
 	-webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.5);
 }
-.sticky .logo img {
-	display: none;
+.sticky .container {
+	margin-top: 0px;
 }
 .transparent-bg.sticky {
 	background: rgba(0, 0, 0, .7);
@@ -910,6 +925,20 @@ label {
 /* 5. Service */
 .services-box {
 	/* border: 1px solid #e6e6e6; */
+	background-color: var(--dark-background);
+	--s: 100px; /* control the size*/
+	--c1: var(--dark-background);
+	--c2: rgb(176, 145, 184);
+	
+	--_g:#0000, #0004 5%,
+		var(--c2) 6%  14%,var(--c1) 16% 24%,var(--c2) 26% 34%,var(--c1) 36% 44%,
+		var(--c2) 46% 54%,var(--c1) 56% 64%,var(--c2) 66% 74%,var(--c1) 76% 84%,
+		var(--c2) 86% 94%,#0004 95%,#0000;
+	background:
+		radial-gradient(100% 50% at 100% 0   ,var(--_g)),
+		radial-gradient(100% 50% at 0    50% ,var(--_g)),
+		radial-gradient(100% 50% at 100% 100%,var(--_g));
+	background-size: var(--s) calc(2*var(--s));
 	transition: .3s;
 	box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
 	border-radius: 5%;
@@ -1378,6 +1407,11 @@ label {
 }
 .footer-cta {
 	border-bottom: 1px solid #373636;
+}
+.single-cta {
+	display: flex;
+	width: 80%;
+	align-items: flex-start;
 }
 .single-cta i {
 	color: var(--theme_s-light);
@@ -2182,6 +2216,7 @@ input:checked ~ .accordion-title:after {
 	margin: auto;
 }
 .card-title h5 {
+	color: black;
 	margin-bottom: 15px;
 	font-weight: 600;
 }

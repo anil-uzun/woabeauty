@@ -2,12 +2,12 @@
 
 - text: Anasayfa
   url: /
+- text: Hizmetlerimiz
+  url: /sayfalar/hizmetler
 - text: Hakkımızda
   url: /sayfalar/hakkimizda
 - text: SSS
   url: /sayfalar/sikca-sorulan-sorular
-- text: Hizmetlerimiz
-  url: /sayfalar/hizmetler
 - text: Sosyal Medya Sayfalarımız
   url: /sayfalar/sosyal-medya
   submenu:

@@ -58,10 +58,12 @@ slider:
 about:
   subtitle_1: Hakkımızda
   text_1: >- 
-              Kamer Yüzer, saç bakımı ve güzellik hizmetlerinde kaliteyi, doğallığı ve profesyonelliği öncelikli kılan bir merkezdir. Salonumuzda, deneyimli eğitmenimiz Kamer Yüzer önderliğinde, her müşterimize özel ve özenli bir hizmet sunuyoruz.
-              Uzman ekibimiz ve modern tekniklerimiz ile saç bakımı, cilt bakımı, makyaj, kirpik lifting, kalıcı makyaj ve refleksoloji gibi geniş bir hizmet yelpazesi sunuyoruz. Amacımız sadece güzel görünmenizi sağlamak değil; aynı zamanda kendinizi değerli, özel ve bakımlı hissetmenizi garanti etmektir.
-              Kamer Yüzer, hijyen ve güvenlik standartlarından ödün vermeden, kişiye özel çözümler sunarak her ziyarette benzersiz bir bakım deneyimi yaşamanızı hedefler. Bizimle, güzellik ve bakım yolculuğunuzu uzman ellerde keşfedin.
-              
+              <b>Kamer Yüzer Güzellik Evi</b>, güzelliğe sadece dış görünüş olarak değil, bir bütün olarak bakan sıcak ve samimi bir anlayışla hizmet vermek için kurulmuştur. Salonumuzun kurucusu <b>Kamer Yüzer</b>, Milli Eğitim’e bağlı okullarda uzun yıllardır güzellik alanında eğitimler vermiş, bilgi ve deneyimini şimdi kendi salonunda siz değerli misafirleriyle paylaşmaya başlamıştır.
+              <b>Güzellik evimiz yalnızca kadınlara özel hizmet vermektedir</b>. Bu sayede kendinizi rahat, güvende ve tamamen size ait bir ortamda hissetmenizi amaçlıyoruz.
+              Bizim için her danışan özeldir. Bu yüzden <b>cilt bakımı, iğneli epilasyon, kalıcı makyaj ve profesyonel masaj</b>  uygulamalarımızda kişiye özel çözümler sunarız. Cildinizi tanır, ihtiyacını dinler ve en doğru uygulamayı özenle gerçekleştiririz. Hijyen, güven ve rahatlık salonumuzun vazgeçilmezleridir.
+              <b>Kamer Yüzer Güzellik Evi</b>’nde amacımız; kendinize ayırdığınız bu zamanı keyifli, huzurlu ve yenileyici bir deneyime dönüştürmektir. Eğitimli ellerde, doğal ve sağlıklı güzelliğinizi ortaya çıkarmak için buradayız.
+              Kendinizi iyi hissetmek, yenilenmek ve güzelliğinize profesyonel dokunuşlar eklemek için sizleri <b>Kamer Yüzer Güzellik Evi</b>’ne sevgiyle bekliyoruz.
+            
 #blog Content
 blog:
   subtitle_1: Güncel Blog
@@ -75,7 +77,7 @@ services:
   opt_face:   Yüz
   opt_h&f:    El ve Ayak 
   text:       ""
-  service_1:  ALTIN ORAN KAŞ TASARIMI
+  service_1:  KLASİK CİLT BAKIMI
   text_1:     --
   service_2:  EL VE AYAK BAKIMI
   text_2:     --
@@ -85,7 +87,7 @@ services:
   text_4:     --
   service_5:  PROFESYONEL MAKYAJ
   text_5:     --
-  service_6:  KLASİK CİLT BAKIMI
+  service_6:  ALTIN ORAN KAŞ TASARIMI
   text_6:     --
   service_7:  PUMPKİN (BALKABAĞI) BAKIMI
   text_7:     --
@@ -97,104 +99,69 @@ services:
 #service Content
 
 #service 1 Content
-service_1:  
-  header_1: ALTIN ORAN KAŞ TASARIMI
-  btn_1:    Bizimle İletişime Geç
+service_1:
+  header_1:   KLASİK CİLT BAKIMI
+  btn_1:      Bizimle İletişime Geç
   text_1: >-
-            Altın Oran Kaş Tasarımı, yüzünüzün doğal anatomisine uygun olarak kaşlarınızın ideal formda şekillendirilmesini sağlayan bilimsel ve estetik bir tekniktir. Bu yöntemde yüzün simetrisi, göz yapısı, alın genişliği ve burun oranları özel ölçümlerle analiz edilir. Elde edilen veriler doğrultusunda kaşlara kişiye özel en doğal ve dengeli şekil verilir.<br>
-            Altın oran prensibine göre tasarlanan kaşlar, yüz ifadesini daha canlı, dengeli ve estetik gösterir. Asimetrik, seyrek veya düşük kaş problemleri doğal görünüm bozulmadan düzeltilir. Uygulama, yüz hatlarınızı sertleştirmeden daha genç, dinamik ve bakımlı bir görünüm kazandırmayı hedefler.<br>
-            Altın Oran Kaş Tasarımı sayesinde:<br>
-            •	Yüzünüzle uyumlu, doğal kaş formu elde edilir.<br>
-            •	Bakışlar daha anlamlı ve dengeli görünür.<br>
-            •	Yüz asimetrileri minimuma indirilir.<br>
-            •	Makyajsızken bile bakımlı bir ifade sağlanır.<br>
-            Uzman analiz ve kişiye özel tasarım ile kaşlarınızda en ideal görünümü güvenle yakalayabilirsiniz<br>
+              Klasik cilt bakımı, cildin temel ihtiyaçlarını karşılayan, sağlıklı, canlı ve dengeli bir görünüm kazandırmayı hedefleyen en kapsamlı ve güvenli bakım uygulamasıdır. Cilt yüzeyinde biriken kir, yağ, makyaj kalıntıları ve ölü deriler arındırılarak cildin nefes alması sağlanır.<br>
+              Uygulama öncesinde cilt analizi yapılarak cilt tipi (yağlı, kuru, karma, hassas) belirlenir. Ardından cilt yapısına uygun ürünlerle derinlemesine temizlik, peeling, buhar, siyah nokta ve komedon temizliği uygulanır. Maske, serum ve nemlendirme adımlarıyla cilt yatıştırılır ve bakım tamamlanır. Tüm işlemler hijyenik ortamda, profesyonel ürünler kullanılarak gerçekleştirilir.<br>
+              Klasik cilt bakımının faydaları:<br>
+              •	Gözenekleri derinlemesine temizler.<br>
+              •	Siyah nokta ve yağ bezelerini azaltır.<br>
+              •	Cilt tonunu dengeler ve aydınlık görünüm kazandırır.<br>
+              •	Nem dengesini düzenler.<br>
+              •	Akne oluşumunu önlemeye yardımcı olur.<br>
+              •	Cilde taze, sağlıklı ve canlı bir görünüm kazandırır.<br>
+              Düzenli olarak uygulanan klasik cilt bakımı, cildin kendini yenileme sürecini destekler, yaşlanma belirtilerini geciktirir ve cildin daha pürüzsüz, parlak ve bakımlı görünmesini sağlar.<br>
+
+  header_2:   Klasik Cilt Bakımı – Sık Sorulan Sorular (SSS)
+  text_2: >-  
+              Klasik cilt bakımı nedir?<br>
+              Klasik cilt bakımı, cildin derinlemesine temizlenmesi, gözeneklerin arındırılması, nem dengesinin sağlanması ve cildin yenilenmesi amacıyla uygulanan temel ve en etkili bakım yöntemidir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı kimlere uygundur?<br>
+              Kuru, yağlı, karma ve hassas dahil olmak üzere tüm cilt tipleri için uygundur. Uygulama öncesinde yapılan cilt analizi ile bakım içeriği kişiye özel olarak belirlenir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı ne kadar sürer?<br>
+              Seans süresi ortalama 60–90 dakika arasında değişir. Cilt tipi ve yapılacak işlemlere göre süre uzayıp kısalabilir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı ne sıklıkla yapılmalıdır?<br>
+              Cilt tipine göre genellikle ayda 1 kez düzenli olarak yapılması önerilir. Yoğun siyah nokta ve akne problemi olan ciltlerde ilk dönemde aralıklar kısaltılabilir.<br>
+              ________________________________________<br>
+              İşlem sırasında acı hissedilir mi?<br>
+              Temizlik ve siyah nokta aşamasında hafif bir baskı hissedilebilir ancak genellikle ağrılı bir işlem değildir. Hassas ciltlerde uygulama nazik şekilde yapılır.<br>
+              ________________________________________<br>
+              Klasik cilt bakımının cilde faydaları nelerdir?<br>
+              •	Gözenekleri temizler<br>
+              •	Siyah nokta ve yağ bezelerini azaltır<br>
+              •	Cildi aydınlatır<br>
+              •	Nem dengesini düzenler<br>
+              •	Akne oluşumunu önlemeye yardımcı olur<br>
+              •	Cildi pürüzsüz ve canlı gösterir<br>
+              ________________________________________<br>
+              İşlem sonrası ciltte kızarıklık olur mu?<br>
+              Hassas ciltlerde kısa süreli hafif kızarıklık görülebilir. Genellikle birkaç saat içinde kendiliğinden geçer.<br>
+              ________________________________________<br>
+              İşlem sonrası makyaj yapılabilir mi?<br>
+              Cildin dinlenmesi açısından işlem sonrası en az 12–24 saat makyaj yapılmaması önerilir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı sivilceye neden olur mu?<br>
+              Hayır, doğru şekilde ve hijyenik koşullarda uygulandığında sivilceye neden olmaz. Aksine düzenli bakım akne oluşumunu azaltır.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı lekelere iyi gelir mi?<br>
+              Düzenli bakım cilt tonunun eşitlenmesine yardımcı olur ve leke görünümünü zamanla hafifletebilir. Ancak ileri düzey lekelerde destekleyici işlemler gerekebilir.<br>
+              ________________________________________<br>
+              Hamilelikte klasik cilt bakımı yapılır mı?<br>
+              Hamilelikte genellikle temel ve kimyasal içermeyen ürünlerle klasik cilt bakımı yapılabilir. Uygulama öncesinde mutlaka bilgi verilmesi önemlidir.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İlk 24 saat güneşe çıkılmamalıdır.<br>
+              •	Solaryum ve sıcak ortamlar (sauna, hamam) önerilmez.<br>
+              •	Cilt nemlendirilmeli ve güneş koruyucu kullanılmalıdır.<br>
+              •	Cilde sert peeling ve asit içerikli ürünler uygulanmamalıdır.<br>
 
 #service 2 Content
 service_2:
-  header_1: EL VE AYAK BAKIMI
-  btn_1:    Bizimle İletişime Geç
-  text_1: >-
-            El ve ayak bakımı; sadece estetik görünüm için değil, aynı zamanda sağlıklı bir cilt yapısı ve genel yaşam konforu için de büyük önem taşır. Gün içinde en çok dış etkenlere maruz kalan el ve ayaklar, düzenli bakım yapılmadığında kuruluk, çatlak, sertleşme ve çeşitli cilt problemleriyle karşı karşıya kalabilir.<br>
-            Profesyonel el ve ayak bakımı uygulamalarımızda öncelikle cilt yapınız analiz edilir. Ölü deriler nazik yöntemlerle arındırılır, tırnaklar sağlıklı şekilde şekillendirilir ve hijyenik koşullarda bakım yapılır. Özel bakım ürünleriyle cilt derinlemesine nemlendirilir, yumuşak ve pürüzsüz bir görünüm kazandırılır.<br>
-            Düzenli el ve ayak bakımı sayesinde:<br>
-            •	Çatlak ve sertleşmeler azalır.<br>
-            •	Tırnaklar daha sağlıklı uzar.<br>
-            •	Cilt yumuşak, bakımlı ve canlı bir görünüm kazanır.<br>
-            •	Günlük yaşamda konfor artar.<br>
-            •	Estetik ve hijyen bir arada sağlanır<br>
-            Uzman estetisyenlerimiz eşliğinde uygulanan el ve ayak bakımı, hem sağlığınızı korur hem de kendinizi daha iyi hissetmenizi sağlar.<br>
-
-#service 3 Content
-service_3:
-  header_1: DEPİLASYON
-  btn_1:    Bizimle iletişime geçin
-  text_1: >-
-            Depilasyon, istenmeyen tüylerden geçici olarak kurtulmayı sağlayan, cildi pürüzsüz ve bakımlı bir görünüme kavuşturan etkili bir bakım uygulamasıdır. Doğru teknikler ve kaliteli ürünlerle yapılan depilasyon, ciltte tahrişi en aza indirirken uzun süreli temizlik ve konfor sağlar.<br>
-            Uygulama öncesinde cilt tipi ve hassasiyet durumu uzmanlarımız tarafından değerlendirilir. Ardından cilde uygun ağda veya depilasyon yöntemi seçilerek işlem hijyenik koşullarda gerçekleştirilir. İşlem sonrası cilt yatıştırıcı ve nemlendirici ürünlerle desteklenerek kızarıklık ve hassasiyet minimum seviyeye indirilir.<br>
-            Depilasyon uygulamasının avantajları:<br>
-            •	Ciltte anında pürüzsüzlük sağlar.<br>
-            •	Tüylerin daha geç ve incelerek çıkmasına yardımcı olur.<br>
-            •	Düzenli uygulamada cilt daha yumuşak ve bakımlı görünür.<br>
-            •	Hijyenik ve konforlu bir temizlik sunar.<br>
-            •	Tüm vücut bölgelerine güvenle uygulanabilir.<br>
-            Uzman ekip ve kaliteli ürünlerle gerçekleştirilen depilasyon uygulamamız sayesinde, kendinizi her zaman daha temiz, rahat ve özgüvenli hissedebilirsiniz.<br>
-
-#service 4 Content
-service_4:
-  header_1: İĞNELİ EPİLASYON
-  btn_1:    Bizimle İletişime Geç
-  text_1: >-
-            İğneli epilasyon, kıl kökünü doğrudan hedef alarak tüylerin kalıcı olarak yok edilmesini sağlayan, FDA onaylı ve tüm kıl tiplerinde etkili olan tek epilasyon yöntemidir. Açık renkli, ince veya kalın fark etmeksizin tüm tüylerde güvenle uygulanabilir ve bu özelliğiyle lazer epilasyona alternatif değil, tamamlayıcı bir çözümdür.<br>
-            Uygulama sırasında her bir kıl köküne steril, tek kullanımlık mikro iğnelerle girilerek kök elektrik akımı ile tahrip edilir. Böylece kıl üretim merkezi kalıcı olarak devre dışı bırakılır. İşlem kişiye ve bölgeye göre seanslar halinde planlanır. Uygulama öncesi cilt analiziniz yapılır, işlem sonrası ise cilt yatıştırıcı ve koruyucu ürünlerle desteklenir.<br>
-            İğneli epilasyonun avantajları:<br>
-            •	Kıl kökünü kalıcı olarak yok eder.<br>
-            •	Tüm kıl renkleri ve cilt tiplerinde etkilidir.<br>
-            •	Lazerin etkisiz kaldığı beyaz, sarı ve ince tüylerde güvenle uygulanır.<br>
-            •	Lokal ve kontrollü bir uygulamadır.<br>
-            •	Hormonal tüylenmelerde destekleyici çözümdür.<br>
-            •	Küçük alanlar için en etkili yöntemdir (çene, bıyık, kaş arası, benler çevresi vb.).<br>
-            Yüz ve vücudun tüm bölgelerine, hijyen kurallarına uygun şekilde uzman uygulayıcılar tarafından yapılan iğneli epilasyon sayesinde istenmeyen tüylerden kalıcı olarak kurtulabilir, pürüzsüz bir cilde güvenle sahip olabilirsiniz.<br>
-  header_2: İğneli Epilasyon – Sık Sorulan Sorular (SSS)
-  text_2: >-
-            İğneli epilasyon kalıcı mı?<br>
-            Evet. İğneli epilasyon, kıl kökünü doğrudan tahrip ettiği için kalıcı sonuç veren tek epilasyon yöntemidir. Uygulama doğru şekilde yapıldığında yok edilen kıl tekrar çıkmaz.<br>
-            ________________________________________<br>
-            İğneli epilasyon kimlere uygulanabilir?<br>
-            Tüm cilt tiplerine ve tüm kıl renklerine (beyaz, sarı, kızıl, ince-kalın) güvenle uygulanabilir. Lazer epilasyonun etkisiz olduğu tüylerde özellikle tercih edilir.<br>
-            ________________________________________<br>
-            Hangi bölgelere uygulanır?<br>
-            Yüz (bıyık, çene, kaş arası, favori), boyun, koltuk altı, bikini, karın, göğüs, sırt ve ben çevresi dahil olmak üzere vücudun tüm bölgelerine uygulanabilir.<br>
-            ________________________________________<br>
-            Seans sayısı neye göre değişir?<br>
-            Seans sayısı; kıl yoğunluğu, kıl yapısı, hormonal durum ve uygulanan bölgeye göre kişiden kişiye değişir. Kıllar tek tek yok edildiği için işlem seanslar halinde ve kontrollü şekilde ilerler.<br>
-            ________________________________________<br>
-            İğneli epilasyon acı verir mi?
-            Uygulama sırasında hafif bir batma veya sıcaklık hissi oluşabilir. Acı eşiğine göre his kişiden kişiye değişir. Gerekli durumlarda lokal uyuşturucu kremlerle konfor artırılabilir.<br>
-            ________________________________________<br>
-            İşlem sonrası iz kalır mı?<br>
-            Uzman kişiler tarafından doğru teknikle yapıldığında kalıcı iz bırakmaz. İşlem sonrası oluşabilecek hafif kızarıklık ve kabuklanmalar kısa sürede kendiliğinden geçer.<br>
-            ________________________________________
-            İğneli epilasyon lazer epilasyondan farkı nedir?<br>
-            Lazer epilasyon kılın içindeki melanin pigmentini hedef alır ve açık renkli tüylerde etkili değildir. İğneli epilasyon ise kıl kökünü direkt yok ettiği için tüm tüylerde etkilidir ve kalıcıdır.<br>
-            ________________________________________<br>
-            İşlem sonrası nelere dikkat edilmelidir?<br>
-            •	İlk 24 saat suyla temas edilmemelidir.<br>
-            •	Güneş, solaryum ve sıcak ortamlardan kaçınılmalıdır.<br>
-            •	Kabuklar koparılmamalıdır.<br>
-            •	Uzmanın önerdiği yatıştırıcı ürünler düzenli kullanılmalıdır.<br>
-            ________________________________________<br>
-            İğneli epilasyon hormonları etkiler mi?<br>
-            Hayır. İğneli epilasyon yalnızca kıl kökü üzerinde etkilidir, hormonları etkilemez. Ancak hormonal tüylenmelerde destekleyici ve kalıcı çözüm sunar.<br>
-            ________________________________________<br>
-            Hamilelikte iğneli epilasyon yapılır mı?<br>
-            Hamileliğin özellikle ilk dönemlerinde önerilmez. Mutlaka doktor onayı ve uzman değerlendirmesi gereklidir.<br>
-            ________________________________________<br>
-            Sonuçlar ne zaman görülür?<br>
-            İşlem yapılan kıl kökü anında yok edilir. Tam sonuç ise tüm kıl döngüleri tamamlandığında, seanslar ilerledikçe net olarak görülür.<br>
-
-#service 5 Content
-service_5:
   btn_1:      Bizimle İletişime Geç
   header_1:   PUMPKİN (BALKABAĞI) BAKIMI
   text_1: >-
@@ -259,158 +226,75 @@ service_5:
               Klasik cilt bakımı daha çok temizlik ve arındırmaya yöneliktir. Pumpkin bakımı ise enzim peeling etkisiyle yenileyici, aydınlatıcı ve cilt dokusunu güçlendirici daha yoğun bir bakım sunar.<br>
 
 
-#service 6 Content
-service_6:
-  header_1:   KLASİK CİLT BAKIMI
-  btn_1:      Bizimle İletişime Geç
+#service 3 Content
+service_3:
+  header_1: İĞNELİ EPİLASYON
+  btn_1:    Bizimle İletişime Geç
   text_1: >-
-              Klasik cilt bakımı, cildin temel ihtiyaçlarını karşılayan, sağlıklı, canlı ve dengeli bir görünüm kazandırmayı hedefleyen en kapsamlı ve güvenli bakım uygulamasıdır. Cilt yüzeyinde biriken kir, yağ, makyaj kalıntıları ve ölü deriler arındırılarak cildin nefes alması sağlanır.<br>
-              Uygulama öncesinde cilt analizi yapılarak cilt tipi (yağlı, kuru, karma, hassas) belirlenir. Ardından cilt yapısına uygun ürünlerle derinlemesine temizlik, peeling, buhar, siyah nokta ve komedon temizliği uygulanır. Maske, serum ve nemlendirme adımlarıyla cilt yatıştırılır ve bakım tamamlanır. Tüm işlemler hijyenik ortamda, profesyonel ürünler kullanılarak gerçekleştirilir.<br>
-              Klasik cilt bakımının faydaları:<br>
-              •	Gözenekleri derinlemesine temizler.<br>
-              •	Siyah nokta ve yağ bezelerini azaltır.<br>
-              •	Cilt tonunu dengeler ve aydınlık görünüm kazandırır.<br>
-              •	Nem dengesini düzenler.<br>
-              •	Akne oluşumunu önlemeye yardımcı olur.<br>
-              •	Cilde taze, sağlıklı ve canlı bir görünüm kazandırır.<br>
-              Düzenli olarak uygulanan klasik cilt bakımı, cildin kendini yenileme sürecini destekler, yaşlanma belirtilerini geciktirir ve cildin daha pürüzsüz, parlak ve bakımlı görünmesini sağlar.<br>
-
-  header_2:   Klasik Cilt Bakımı – Sık Sorulan Sorular (SSS)
-  text_2: >-  
-              Klasik cilt bakımı nedir?<br>
-              Klasik cilt bakımı, cildin derinlemesine temizlenmesi, gözeneklerin arındırılması, nem dengesinin sağlanması ve cildin yenilenmesi amacıyla uygulanan temel ve en etkili bakım yöntemidir.<br>
-              ________________________________________<br>
-              Klasik cilt bakımı kimlere uygundur?<br>
-              Kuru, yağlı, karma ve hassas dahil olmak üzere tüm cilt tipleri için uygundur. Uygulama öncesinde yapılan cilt analizi ile bakım içeriği kişiye özel olarak belirlenir.<br>
-              ________________________________________<br>
-              Klasik cilt bakımı ne kadar sürer?<br>
-              Seans süresi ortalama 60–90 dakika arasında değişir. Cilt tipi ve yapılacak işlemlere göre süre uzayıp kısalabilir.<br>
-              ________________________________________<br>
-              Klasik cilt bakımı ne sıklıkla yapılmalıdır?<br>
-              Cilt tipine göre genellikle ayda 1 kez düzenli olarak yapılması önerilir. Yoğun siyah nokta ve akne problemi olan ciltlerde ilk dönemde aralıklar kısaltılabilir.<br>
-              ________________________________________<br>
-              İşlem sırasında acı hissedilir mi?<br>
-              Temizlik ve siyah nokta aşamasında hafif bir baskı hissedilebilir ancak genellikle ağrılı bir işlem değildir. Hassas ciltlerde uygulama nazik şekilde yapılır.<br>
-              ________________________________________<br>
-              Klasik cilt bakımının cilde faydaları nelerdir?<br>
-              •	Gözenekleri temizler<br>
-              •	Siyah nokta ve yağ bezelerini azaltır<br>
-              •	Cildi aydınlatır<br>
-              •	Nem dengesini düzenler<br>
-              •	Akne oluşumunu önlemeye yardımcı olur<br>
-              •	Cildi pürüzsüz ve canlı gösterir<br>
-              ________________________________________<br>
-              İşlem sonrası ciltte kızarıklık olur mu?<br>
-              Hassas ciltlerde kısa süreli hafif kızarıklık görülebilir. Genellikle birkaç saat içinde kendiliğinden geçer.<br>
-              ________________________________________<br>
-              İşlem sonrası makyaj yapılabilir mi?<br>
-              Cildin dinlenmesi açısından işlem sonrası en az 12–24 saat makyaj yapılmaması önerilir.<br>
-              ________________________________________<br>
-              Klasik cilt bakımı sivilceye neden olur mu?<br>
-              Hayır, doğru şekilde ve hijyenik koşullarda uygulandığında sivilceye neden olmaz. Aksine düzenli bakım akne oluşumunu azaltır.<br>
-              ________________________________________<br>
-              Klasik cilt bakımı lekelere iyi gelir mi?<br>
-              Düzenli bakım cilt tonunun eşitlenmesine yardımcı olur ve leke görünümünü zamanla hafifletebilir. Ancak ileri düzey lekelerde destekleyici işlemler gerekebilir.<br>
-              ________________________________________<br>
-              Hamilelikte klasik cilt bakımı yapılır mı?<br>
-              Hamilelikte genellikle temel ve kimyasal içermeyen ürünlerle klasik cilt bakımı yapılabilir. Uygulama öncesinde mutlaka bilgi verilmesi önemlidir.<br>
-              ________________________________________<br>
-              İşlem sonrası nelere dikkat edilmelidir?<br>
-              •	İlk 24 saat güneşe çıkılmamalıdır.<br>
-              •	Solaryum ve sıcak ortamlar (sauna, hamam) önerilmez.<br>
-              •	Cilt nemlendirilmeli ve güneş koruyucu kullanılmalıdır.<br>
-              •	Cilde sert peeling ve asit içerikli ürünler uygulanmamalıdır.<br>
-
-#service 7 Content
-service_7:
-  btn_1:      Bizimle İletişime Geç
-  header_1:   PROFESYONEL makyaj
-  text_1: >-
-              Profesyonel makyaj, yüz hatlarınızı en doğru şekilde ortaya çıkaran, cilt tonunuza ve tarzınıza uygun olarak uzman eller tarafından uygulanan özel bir güzellik hizmetidir. Özel günlerinizde, davetlerde, düğün, nişan, söz, mezuniyet, fotoğraf çekimi ve sahne makyajlarında kalıcı, kusursuz ve doğal bir görünüm elde etmenizi sağlar.<br>
-              Uygulama öncesinde cilt yapınız, yüz hatlarınız ve beklentileriniz detaylı olarak analiz edilir. Size en uygun renk paleti ve teknik belirlenerek, yüzünüzün doğal güzelliğini ön plana çıkaran, abartıdan uzak ve uzun süre kalıcılığını koruyan bir makyaj uygulaması gerçekleştirilir. Profesyonel ürünler sayesinde gün boyu akma, dağılma ve parlama yapmadan tazeliğini korur.<br>
-              Profesyonel makyajın avantajları:<br>
-              •	Cilt tonunu eşitler, kusurları doğal şekilde kapatır.<br>
-              •	Yüz hatlarını dengeler ve belirginleştirir.<br>
-              •	Uzun süre kalıcılık sağlar.<br>
-              •	Fotoğraf ve ışık altında kusursuz görünüm sunar.<br>
-              •	Kişiye özel tarz ve uygulama imkânı verir.<br>
-              Uzman makyaj sanatçılarımızın kaliteli ürünler ve doğru tekniklerle uyguladığı profesyonel makyaj hizmetimizle, en özel anlarınızda kendinizi her zamankinden daha güzel ve özgüvenli hissedin.<br>
-
-#service 8 Content
-service_8:
-  btn_1:      Bizimle İletişime Geç
-  header_1:   KİRPİK LİFTİNG
-  text_1: >-
-              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan, kalıcı ve pratik bir kirpik şekillendirme uygulamasıdır. Kirpik diplerine zarar vermeden özel solüsyonlar ve silikon destekli aparatlarla uygulanır, böylece takma kirpik veya maskara kullanımına ihtiyaç azaltılır.
-              Uygulama sırasında kirpikler, göz yapınıza uygun şekilde nazikçe kaldırılır ve belirli bir süre solüsyonla sabitlenir. İşlem sonrası kirpikler daha belirgin, kıvrık ve gözleriniz daha açık ve canlı görünür.
-              Kirpik Lifting, takma kirpik veya kirpik uzatma gibi işlemlere göre daha doğal, bakımlı ve uzun süre kalıcı bir sonuç sağlar. Ortalama etki süresi 6–8 hafta devam eder ve düzenli bakımla sonuçlar uzun süre korunabilir.
-              Kirpik Lifting’in Faydaları:
-              •	Kirpikleri doğal şekilde kıvırır ve belirginleştirir.
-              •	Gözleri daha büyük ve açık gösterir.
-              •	Maskara kullanımını azaltır.
-              •	Takma kirpik veya uzatma gerektirmez.
-              •	Ortalama 6–8 hafta kalıcıdır.
-              •	Doğal ve sağlıklı kirpik yapısını korur.
-              Kirpik Lifting, her yaş ve her kirpik tipine uygun hijyenik ve güvenli bir uygulamadır. Uzman estetisyenlerimiz tarafından yapılan uygulama ile gözleriniz daha etkileyici ve bakımlı görünür.
-  
-  header_2:   Kirpik Lifting – Sık Sorulan Sorular (SSS)
+            İğneli epilasyon, kıl kökünü doğrudan hedef alarak tüylerin kalıcı olarak yok edilmesini sağlayan, FDA onaylı ve tüm kıl tiplerinde etkili olan tek epilasyon yöntemidir. Açık renkli, ince veya kalın fark etmeksizin tüm tüylerde güvenle uygulanabilir ve bu özelliğiyle lazer epilasyona alternatif değil, tamamlayıcı bir çözümdür.<br>
+            Uygulama sırasında her bir kıl köküne steril, tek kullanımlık mikro iğnelerle girilerek kök elektrik akımı ile tahrip edilir. Böylece kıl üretim merkezi kalıcı olarak devre dışı bırakılır. İşlem kişiye ve bölgeye göre seanslar halinde planlanır. Uygulama öncesi cilt analiziniz yapılır, işlem sonrası ise cilt yatıştırıcı ve koruyucu ürünlerle desteklenir.<br>
+            İğneli epilasyonun avantajları:<br>
+            •	Kıl kökünü kalıcı olarak yok eder.<br>
+            •	Tüm kıl renkleri ve cilt tiplerinde etkilidir.<br>
+            •	Lazerin etkisiz kaldığı beyaz, sarı ve ince tüylerde güvenle uygulanır.<br>
+            •	Lokal ve kontrollü bir uygulamadır.<br>
+            •	Hormonal tüylenmelerde destekleyici çözümdür.<br>
+            •	Küçük alanlar için en etkili yöntemdir (çene, bıyık, kaş arası, benler çevresi vb.).<br>
+            Yüz ve vücudun tüm bölgelerine, hijyen kurallarına uygun şekilde uzman uygulayıcılar tarafından yapılan iğneli epilasyon sayesinde istenmeyen tüylerden kalıcı olarak kurtulabilir, pürüzsüz bir cilde güvenle sahip olabilirsiniz.<br>
+  header_2: İğneli Epilasyon – Sık Sorulan Sorular (SSS)
   text_2: >-
-              Kirpik Lifting nedir?
-              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan kalıcı bir kirpik şekillendirme uygulamasıdır. Takma kirpik veya uzatma gerektirmez.
-              ________________________________________
-              Kirpik Lifting kimlere uygundur?
-              Tüm doğal kirpik tiplerine uygundur. Çok kısa veya seyrek kirpiklerde etkisi daha sınırlı olabilir, bu durumda uzman değerlendirmesi önerilir.
-              ________________________________________
-              İşlem ne kadar sürer?
-              Ortalama uygulama süresi 45–60 dakika arasındadır. Kirpik sayısı ve uzunluğu işlem süresini etkileyebilir.
-              ________________________________________
-              Etki süresi ne kadardır?
-              Kirpik Lifting’in etkisi genellikle 6–8 hafta sürer. Düzenli bakım ve uygun ürün kullanımı ile sonuçlar daha uzun süre korunabilir.
-              ________________________________________
-              İşlem sırasında acı hissedilir mi?
-              Hayır. Kirpiklerinizin kıvrılması sırasında hafif bir baskı veya batma hissi oluşabilir, ancak işlem genellikle ağrısızdır.
-              ________________________________________
-              Kirpik Lifting sonrası makyaj yapılabilir mi?
-              İşlemden sonra ilk 24 saat kirpiklerin temas etmemesi önerilir. Daha sonra maskara veya göz makyajı rahatlıkla yapılabilir.
-              ________________________________________
-              Kirpikler zarar görür mü?
-              Doğru uygulandığında kirpik yapısına zarar vermez. İşlem sırasında kullanılan solüsyonlar kirpik sağlığını koruyacak şekilde formüle edilmiştir.
-              ________________________________________
-              Hamilelikte Kirpik Lifting yapılabilir mi?
-              Hamilelik ve emzirme döneminde, içeriğindeki kimyasal bileşenler nedeniyle uygulama uzman tavsiyesi ile yapılmalıdır.
-              ________________________________________
-              İşlem sonrası nelere dikkat edilmelidir?
-              •	İlk 24 saat kirpiklere su değmemelidir.
-              •	Kirpiklere sert dokunuşlardan ve ovalamadan kaçınılmalıdır.
-              •	Suya dayanıklı maskara ve kirpik bakım serumları ile desteklenebilir.
+            İğneli epilasyon kalıcı mı?<br>
+            Evet. İğneli epilasyon, kıl kökünü doğrudan tahrip ettiği için kalıcı sonuç veren tek epilasyon yöntemidir. Uygulama doğru şekilde yapıldığında yok edilen kıl tekrar çıkmaz.<br>
+            ________________________________________<br>
+            İğneli epilasyon kimlere uygulanabilir?<br>
+            Tüm cilt tiplerine ve tüm kıl renklerine (beyaz, sarı, kızıl, ince-kalın) güvenle uygulanabilir. Lazer epilasyonun etkisiz olduğu tüylerde özellikle tercih edilir.<br>
+            ________________________________________<br>
+            Hangi bölgelere uygulanır?<br>
+            Yüz (bıyık, çene, kaş arası, favori), boyun, koltuk altı, bikini, karın, göğüs, sırt ve ben çevresi dahil olmak üzere vücudun tüm bölgelerine uygulanabilir.<br>
+            ________________________________________<br>
+            Seans sayısı neye göre değişir?<br>
+            Seans sayısı; kıl yoğunluğu, kıl yapısı, hormonal durum ve uygulanan bölgeye göre kişiden kişiye değişir. Kıllar tek tek yok edildiği için işlem seanslar halinde ve kontrollü şekilde ilerler.<br>
+            ________________________________________<br>
+            İğneli epilasyon acı verir mi?
+            Uygulama sırasında hafif bir batma veya sıcaklık hissi oluşabilir. Acı eşiğine göre his kişiden kişiye değişir. Gerekli durumlarda lokal uyuşturucu kremlerle konfor artırılabilir.<br>
+            ________________________________________<br>
+            İşlem sonrası iz kalır mı?<br>
+            Uzman kişiler tarafından doğru teknikle yapıldığında kalıcı iz bırakmaz. İşlem sonrası oluşabilecek hafif kızarıklık ve kabuklanmalar kısa sürede kendiliğinden geçer.<br>
+            ________________________________________
+            İğneli epilasyon lazer epilasyondan farkı nedir?<br>
+            Lazer epilasyon kılın içindeki melanin pigmentini hedef alır ve açık renkli tüylerde etkili değildir. İğneli epilasyon ise kıl kökünü direkt yok ettiği için tüm tüylerde etkilidir ve kalıcıdır.<br>
+            ________________________________________<br>
+            İşlem sonrası nelere dikkat edilmelidir?<br>
+            •	İlk 24 saat suyla temas edilmemelidir.<br>
+            •	Güneş, solaryum ve sıcak ortamlardan kaçınılmalıdır.<br>
+            •	Kabuklar koparılmamalıdır.<br>
+            •	Uzmanın önerdiği yatıştırıcı ürünler düzenli kullanılmalıdır.<br>
+            ________________________________________<br>
+            İğneli epilasyon hormonları etkiler mi?<br>
+            Hayır. İğneli epilasyon yalnızca kıl kökü üzerinde etkilidir, hormonları etkilemez. Ancak hormonal tüylenmelerde destekleyici ve kalıcı çözüm sunar.<br>
+            ________________________________________<br>
+            Hamilelikte iğneli epilasyon yapılır mı?<br>
+            Hamileliğin özellikle ilk dönemlerinde önerilmez. Mutlaka doktor onayı ve uzman değerlendirmesi gereklidir.<br>
+            ________________________________________<br>
+            Sonuçlar ne zaman görülür?<br>
+            İşlem yapılan kıl kökü anında yok edilir. Tam sonuç ise tüm kıl döngüleri tamamlandığında, seanslar ilerledikçe net olarak görülür.<br>
 
-#service 9 Content
-service_9:
-  btn_1:      Bizimle İletişime Geç
-  header_1:   REFLEKSOLOJİ
-  text_1: >-  
-              Refleksoloji, ayak, el ve kulak üzerinde bulunan belirli refleks noktalarına uygulanan doğal ve bütünsel bir terapi yöntemidir. Bu noktalara yapılan baskı ve masaj ile vücuttaki enerji dengesi sağlanır, organların ve sistemlerin fonksiyonları desteklenir.<br>
-              Refleksoloji, sadece fiziksel rahatlama sağlamakla kalmaz; aynı zamanda stresin azalmasına, bağışıklık sisteminin güçlenmesine ve genel enerji seviyesinin artmasına yardımcı olur. Her seans öncesinde danışanın genel sağlık durumu ve ihtiyaçları değerlendirilir, seans boyunca rahatlatıcı teknikler uygulanır.<br>
-              Refleksolojinin Faydaları:<br>
-              •	Stres ve gerginliği azaltır<br>
-              •	Kan dolaşımını destekler<br>
-              •	Sindirim ve metabolizma süreçlerini destekler<br>
-              •	Uykusuzluk ve yorgunluk hissini azaltır<br>
-              •	Bağışıklık sistemini güçlendirir<br>
-              •	Kas gerginliklerini hafifletir<br>
-              •	Genel enerji seviyesini artırır<br>
-              Refleksoloji, her yaş grubuna uygun, doğal ve yan etkisiz bir terapi yöntemidir. Uzman refleksoloji uygulayıcıları tarafından yapılan seanslar, hem fiziksel hem de zihinsel olarak denge ve rahatlama sağlamayı hedefler.<br>
-              <br>
-              Seans Sonrası Öneriler:<br>
-              1.	Bol su tüketin: Vücudun toksinleri atmasına yardımcı olur ve refleksoloji etkilerini destekler.<br>
-              2.	Ağır egzersizlerden kaçının: Seans sonrası vücut enerji toplama ve yenilenme sürecindedir, aşırı fiziksel aktiviteyi sınırlayın.<br>
-              3.	Stresten uzak durun: Rahatlama ve enerji dengesi için seans sonrası sakin bir ortamda dinlenin.<br>
-              4.	Beslenmenize dikkat edin: Hafif ve dengeli beslenmek, vücudun dengeye kavuşmasını kolaylaştırır.<br>
-              5.	Cilt hassasiyeti: Ayak veya el masajı sonrası hafif kızarıklık veya hassasiyet oluşabilir; bu normaldir ve kısa sürede geçer.<br>
-              6.	Seans aralıklarına dikkat edin: Uzmanınızın önerdiği seans aralıklarına uyarak, etkilerin kalıcı olmasını sağlayın.<br>
+#service 4 Content
+service_4:  
+  header_1: ALTIN ORAN KAŞ TASARIMI
+  btn_1:    Bizimle İletişime Geç
+  text_1: >-
+            Altın Oran Kaş Tasarımı, yüzünüzün doğal anatomisine uygun olarak kaşlarınızın ideal formda şekillendirilmesini sağlayan bilimsel ve estetik bir tekniktir. Bu yöntemde yüzün simetrisi, göz yapısı, alın genişliği ve burun oranları özel ölçümlerle analiz edilir. Elde edilen veriler doğrultusunda kaşlara kişiye özel en doğal ve dengeli şekil verilir.<br>
+            Altın oran prensibine göre tasarlanan kaşlar, yüz ifadesini daha canlı, dengeli ve estetik gösterir. Asimetrik, seyrek veya düşük kaş problemleri doğal görünüm bozulmadan düzeltilir. Uygulama, yüz hatlarınızı sertleştirmeden daha genç, dinamik ve bakımlı bir görünüm kazandırmayı hedefler.<br>
+            Altın Oran Kaş Tasarımı sayesinde:<br>
+            •	Yüzünüzle uyumlu, doğal kaş formu elde edilir.<br>
+            •	Bakışlar daha anlamlı ve dengeli görünür.<br>
+            •	Yüz asimetrileri minimuma indirilir.<br>
+            •	Makyajsızken bile bakımlı bir ifade sağlanır.<br>
+            Uzman analiz ve kişiye özel tasarım ile kaşlarınızda en ideal görünümü güvenle yakalayabilirsiniz<br>
 
-#service 10 Content
-service_10:
+#service 5 Content
+service_5:
   btn_1:      Bizimle İletişime Geç
   header_1:   KALICI MAKYAJ
   text_1: >-  
@@ -458,9 +342,8 @@ service_10:
               Sonuç ne zaman görülür?<br>
               İlk görünüm işlem sonrası hemen fark edilir. Kalıcı ve doğal renk tonu, kabuklanmanın dökülmesinden sonra 7–10 gün içinde netleşir.<br>
 
-
-#service 11 Content
-service_11:
+#service 6 Content
+service_6:
   btn_1:      Bizimle İletişime Geç
   header_1:   PROFESYONEL MASAJ
   text_1: >-  
@@ -502,6 +385,137 @@ service_11:
               •	Ağır egzersiz veya stres yaratacak aktivitelerden kaçının<br>
               •	Masaj sonrası hafif kas ağrısı veya yorgunluk hissi normaldir<br>
               •	Düzenli seanslarla etkilerin kalıcı olmasını sağlayın<br>
+  
+#service 7 Content
+service_7:
+  btn_1:      Bizimle İletişime Geç
+  header_1:   KİRPİK LİFTİNG
+  text_1: >-
+              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan, kalıcı ve pratik bir kirpik şekillendirme uygulamasıdır. Kirpik diplerine zarar vermeden özel solüsyonlar ve silikon destekli aparatlarla uygulanır, böylece takma kirpik veya maskara kullanımına ihtiyaç azaltılır.
+              Uygulama sırasında kirpikler, göz yapınıza uygun şekilde nazikçe kaldırılır ve belirli bir süre solüsyonla sabitlenir. İşlem sonrası kirpikler daha belirgin, kıvrık ve gözleriniz daha açık ve canlı görünür.
+              Kirpik Lifting, takma kirpik veya kirpik uzatma gibi işlemlere göre daha doğal, bakımlı ve uzun süre kalıcı bir sonuç sağlar. Ortalama etki süresi 6–8 hafta devam eder ve düzenli bakımla sonuçlar uzun süre korunabilir.
+              Kirpik Lifting’in Faydaları:
+              •	Kirpikleri doğal şekilde kıvırır ve belirginleştirir.
+              •	Gözleri daha büyük ve açık gösterir.
+              •	Maskara kullanımını azaltır.
+              •	Takma kirpik veya uzatma gerektirmez.
+              •	Ortalama 6–8 hafta kalıcıdır.
+              •	Doğal ve sağlıklı kirpik yapısını korur.
+              Kirpik Lifting, her yaş ve her kirpik tipine uygun hijyenik ve güvenli bir uygulamadır. Uzman estetisyenlerimiz tarafından yapılan uygulama ile gözleriniz daha etkileyici ve bakımlı görünür.
+  
+  header_2:   Kirpik Lifting – Sık Sorulan Sorular (SSS)
+  text_2: >-
+              Kirpik Lifting nedir?
+              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan kalıcı bir kirpik şekillendirme uygulamasıdır. Takma kirpik veya uzatma gerektirmez.
+              ________________________________________
+              Kirpik Lifting kimlere uygundur?
+              Tüm doğal kirpik tiplerine uygundur. Çok kısa veya seyrek kirpiklerde etkisi daha sınırlı olabilir, bu durumda uzman değerlendirmesi önerilir.
+              ________________________________________
+              İşlem ne kadar sürer?
+              Ortalama uygulama süresi 45–60 dakika arasındadır. Kirpik sayısı ve uzunluğu işlem süresini etkileyebilir.
+              ________________________________________
+              Etki süresi ne kadardır?
+              Kirpik Lifting’in etkisi genellikle 6–8 hafta sürer. Düzenli bakım ve uygun ürün kullanımı ile sonuçlar daha uzun süre korunabilir.
+              ________________________________________
+              İşlem sırasında acı hissedilir mi?
+              Hayır. Kirpiklerinizin kıvrılması sırasında hafif bir baskı veya batma hissi oluşabilir, ancak işlem genellikle ağrısızdır.
+              ________________________________________
+              Kirpik Lifting sonrası makyaj yapılabilir mi?
+              İşlemden sonra ilk 24 saat kirpiklerin temas etmemesi önerilir. Daha sonra maskara veya göz makyajı rahatlıkla yapılabilir.
+              ________________________________________
+              Kirpikler zarar görür mü?
+              Doğru uygulandığında kirpik yapısına zarar vermez. İşlem sırasında kullanılan solüsyonlar kirpik sağlığını koruyacak şekilde formüle edilmiştir.
+              ________________________________________
+              Hamilelikte Kirpik Lifting yapılabilir mi?
+              Hamilelik ve emzirme döneminde, içeriğindeki kimyasal bileşenler nedeniyle uygulama uzman tavsiyesi ile yapılmalıdır.
+              ________________________________________
+              İşlem sonrası nelere dikkat edilmelidir?
+              •	İlk 24 saat kirpiklere su değmemelidir.
+              •	Kirpiklere sert dokunuşlardan ve ovalamadan kaçınılmalıdır.
+              •	Suya dayanıklı maskara ve kirpik bakım serumları ile desteklenebilir.
+
+#service 8 Content
+service_8:
+  header_1: EL VE AYAK BAKIMI
+  btn_1:    Bizimle İletişime Geç
+  text_1: >-
+            El ve ayak bakımı; sadece estetik görünüm için değil, aynı zamanda sağlıklı bir cilt yapısı ve genel yaşam konforu için de büyük önem taşır. Gün içinde en çok dış etkenlere maruz kalan el ve ayaklar, düzenli bakım yapılmadığında kuruluk, çatlak, sertleşme ve çeşitli cilt problemleriyle karşı karşıya kalabilir.<br>
+            Profesyonel el ve ayak bakımı uygulamalarımızda öncelikle cilt yapınız analiz edilir. Ölü deriler nazik yöntemlerle arındırılır, tırnaklar sağlıklı şekilde şekillendirilir ve hijyenik koşullarda bakım yapılır. Özel bakım ürünleriyle cilt derinlemesine nemlendirilir, yumuşak ve pürüzsüz bir görünüm kazandırılır.<br>
+            Düzenli el ve ayak bakımı sayesinde:<br>
+            •	Çatlak ve sertleşmeler azalır.<br>
+            •	Tırnaklar daha sağlıklı uzar.<br>
+            •	Cilt yumuşak, bakımlı ve canlı bir görünüm kazanır.<br>
+            •	Günlük yaşamda konfor artar.<br>
+            •	Estetik ve hijyen bir arada sağlanır<br>
+            Uzman estetisyenlerimiz eşliğinde uygulanan el ve ayak bakımı, hem sağlığınızı korur hem de kendinizi daha iyi hissetmenizi sağlar.<br>
+
+#service 9 Content
+service_9:
+  header_1: DEPİLASYON
+  btn_1:    Bizimle iletişime geçin
+  text_1: >-
+            Depilasyon, istenmeyen tüylerden geçici olarak kurtulmayı sağlayan, cildi pürüzsüz ve bakımlı bir görünüme kavuşturan etkili bir bakım uygulamasıdır. Doğru teknikler ve kaliteli ürünlerle yapılan depilasyon, ciltte tahrişi en aza indirirken uzun süreli temizlik ve konfor sağlar.<br>
+            Uygulama öncesinde cilt tipi ve hassasiyet durumu uzmanlarımız tarafından değerlendirilir. Ardından cilde uygun ağda veya depilasyon yöntemi seçilerek işlem hijyenik koşullarda gerçekleştirilir. İşlem sonrası cilt yatıştırıcı ve nemlendirici ürünlerle desteklenerek kızarıklık ve hassasiyet minimum seviyeye indirilir.<br>
+            Depilasyon uygulamasının avantajları:<br>
+            •	Ciltte anında pürüzsüzlük sağlar.<br>
+            •	Tüylerin daha geç ve incelerek çıkmasına yardımcı olur.<br>
+            •	Düzenli uygulamada cilt daha yumuşak ve bakımlı görünür.<br>
+            •	Hijyenik ve konforlu bir temizlik sunar.<br>
+            •	Tüm vücut bölgelerine güvenle uygulanabilir.<br>
+            Uzman ekip ve kaliteli ürünlerle gerçekleştirilen depilasyon uygulamamız sayesinde, kendinizi her zaman daha temiz, rahat ve özgüvenli hissedebilirsiniz.<br>
+
+#service 10 Content
+service_10:
+  header_1: G5 bölgesel incelme
+  btn_1:    Bizimle İletişime Geç
+  text_1: >-
+            G5 masajı, özel başlıkları olan titreşimli bir cihaz yardımıyla uygulanan, profesyonel bir vücut bakım masajıdır. Bu uygulama, cilt yüzeyine kontrollü ve ritmik hareketler vererek bölgesel sıkılaşmayı desteklemeye ve cildin daha pürüzsüz görünmesine yardımcı olur.
+            G5 işlemi özellikle bacak, basen, kalça, karın ve kol bölgelerinde tercih edilmektedir. Uygulama sırasında cilt altı dokular harekete geçirilir, masaj etkisiyle rahatlama ve hafiflik hissi sağlanır.
+            Kamer Yüzer Güzellik Evi’nde G5 masajı, kişiye özel değerlendirme yapılarak, profesyonel ve hijyenik koşullarda uygulanır. Seans süresi ve uygulama sıklığı kişinin ihtiyacına göre belirlenir.
+            Düzenli uygulamalarla birlikte cilt görünümünün daha canlı, daha sıkı ve daha bakımlı bir hâl alması hedeflenir. Aynı zamanda rahatlatıcı etkisi sayesinde stresin azalmasına da katkı sağlar.
+
+            Güzellik evimiz yalnızca kadınlara özel hizmet vermektedir.
+
+
+#service 11 Content
+service_11:
+  btn_1:      Bizimle İletişime Geç
+  header_1:   REFLEKSOLOJİ
+  text_1: >-  
+              Refleksoloji, ayak, el ve kulak üzerinde bulunan belirli refleks noktalarına uygulanan doğal ve bütünsel bir terapi yöntemidir. Bu noktalara yapılan baskı ve masaj ile vücuttaki enerji dengesi sağlanır, organların ve sistemlerin fonksiyonları desteklenir.<br>
+              Refleksoloji, sadece fiziksel rahatlama sağlamakla kalmaz; aynı zamanda stresin azalmasına, bağışıklık sisteminin güçlenmesine ve genel enerji seviyesinin artmasına yardımcı olur. Her seans öncesinde danışanın genel sağlık durumu ve ihtiyaçları değerlendirilir, seans boyunca rahatlatıcı teknikler uygulanır.<br>
+              Refleksolojinin Faydaları:<br>
+              •	Stres ve gerginliği azaltır<br>
+              •	Kan dolaşımını destekler<br>
+              •	Sindirim ve metabolizma süreçlerini destekler<br>
+              •	Uykusuzluk ve yorgunluk hissini azaltır<br>
+              •	Bağışıklık sistemini güçlendirir<br>
+              •	Kas gerginliklerini hafifletir<br>
+              •	Genel enerji seviyesini artırır<br>
+              Refleksoloji, her yaş grubuna uygun, doğal ve yan etkisiz bir terapi yöntemidir. Uzman refleksoloji uygulayıcıları tarafından yapılan seanslar, hem fiziksel hem de zihinsel olarak denge ve rahatlama sağlamayı hedefler.<br>
+              <br>
+              Seans Sonrası Öneriler:<br>
+              1.	Bol su tüketin: Vücudun toksinleri atmasına yardımcı olur ve refleksoloji etkilerini destekler.<br>
+              2.	Ağır egzersizlerden kaçının: Seans sonrası vücut enerji toplama ve yenilenme sürecindedir, aşırı fiziksel aktiviteyi sınırlayın.<br>
+              3.	Stresten uzak durun: Rahatlama ve enerji dengesi için seans sonrası sakin bir ortamda dinlenin.<br>
+              4.	Beslenmenize dikkat edin: Hafif ve dengeli beslenmek, vücudun dengeye kavuşmasını kolaylaştırır.<br>
+              5.	Cilt hassasiyeti: Ayak veya el masajı sonrası hafif kızarıklık veya hassasiyet oluşabilir; bu normaldir ve kısa sürede geçer.<br>
+              6.	Seans aralıklarına dikkat edin: Uzmanınızın önerdiği seans aralıklarına uyarak, etkilerin kalıcı olmasını sağlayın.<br>
+
+#service 12 Content
+service_12:
+  btn_1:      Bizimle İletişime Geç
+  header_1:   PROFESYONEL makyaj
+  text_1: >-
+              Profesyonel makyaj, yüz hatlarınızı en doğru şekilde ortaya çıkaran, cilt tonunuza ve tarzınıza uygun olarak uzman eller tarafından uygulanan özel bir güzellik hizmetidir. Özel günlerinizde, davetlerde, düğün, nişan, söz, mezuniyet, fotoğraf çekimi ve sahne makyajlarında kalıcı, kusursuz ve doğal bir görünüm elde etmenizi sağlar.<br>
+              Uygulama öncesinde cilt yapınız, yüz hatlarınız ve beklentileriniz detaylı olarak analiz edilir. Size en uygun renk paleti ve teknik belirlenerek, yüzünüzün doğal güzelliğini ön plana çıkaran, abartıdan uzak ve uzun süre kalıcılığını koruyan bir makyaj uygulaması gerçekleştirilir. Profesyonel ürünler sayesinde gün boyu akma, dağılma ve parlama yapmadan tazeliğini korur.<br>
+              Profesyonel makyajın avantajları:<br>
+              •	Cilt tonunu eşitler, kusurları doğal şekilde kapatır.<br>
+              •	Yüz hatlarını dengeler ve belirginleştirir.<br>
+              •	Uzun süre kalıcılık sağlar.<br>
+              •	Fotoğraf ve ışık altında kusursuz görünüm sunar.<br>
+              •	Kişiye özel tarz ve uygulama imkânı verir.<br>
+              Uzman makyaj sanatçılarımızın kaliteli ürünler ve doğru tekniklerle uyguladığı profesyonel makyaj hizmetimizle, en özel anlarınızda kendinizi her zamankinden daha güzel ve özgüvenli hissedin.<br>
 
 
 #Social Media Content

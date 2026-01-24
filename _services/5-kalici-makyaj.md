@@ -1,8 +1,8 @@
 ---
 layout: featured
-title_tr: Pumpkin (Balkabağı) Bakımı
+title_tr: Kalıcı Makyaj
 
-permalink: hizmetler/pumpkin-bakimi
+permalink: hizmetler/kalici-makyaj
 
 number: 5
 
