@@ -545,6 +545,9 @@ label {
 .sticky .container {
 	margin-top: 0px;
 }
+.sticky .logo img{
+	height: 100px !important;
+}
 .transparent-bg.sticky {
 	background: rgba(0, 0, 0, .7);
 }
